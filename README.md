@@ -35,7 +35,7 @@ The router sits at the front of a larger pipeline, directing traffic to the righ
 | Cold start          | ~6s on i3-6100U CPU              |
 | Warm inference      | ~3–4s loaded in memory           |
 
-**→ [Download and use the model on HuggingFace](https://huggingface.co/kaushalkrishnax/auroic-router)**
+**→ [Download and use the model on HuggingFace](https://huggingface.co/kaushalkrishnax/auroic-router-0.6b)**
 
 ---
 
