@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai maine aaj ek nayi bike li hai!",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Arre wah! Kaunsa model liya?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Aaj toh office jane ka bilkul mann nahi hai...",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kyun bhai, kya hua? Monday blues?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I am planning to go to Japan next month 🇯🇵",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Awesome! Solo trip hai ya friends ke saath?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Finally, maine apna startup register karwa liya!",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Congratulations! Kya business idea hai?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Yaar ye naya wala movie trailer dekha? Bekaar hai ekdum",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Sach mein? Kya pasand nahi aaya?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Aaj toh office jane ka bilkul mann nahi hai...",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kya banaya? Sabne khaya ki nahi? 😂\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "I'm thinking of quitting my job and starting freelancing",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Sahi hai, par backup plan ready hai?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai kal wala match toh ekdum thrilling tha!",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Last over dekha tha? Pura game palat gaya!\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Mujhe naya laptop lena hai, budget 60k hai",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Coding ke liye chahiye ya gaming ke liye?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Aaj toh baarish ne pura plan kharab kar diya 🌧️",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kahan jane wale the?\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Maine weight loss journey start ki hai, 2kg kam ho gaya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Sahi hai! Diet follow kar rahe ho ya sirf workout?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai Goa ka plan ban raha hai dosto ke saath",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Dates fix ho gayi ya abhi sirf baatein ho rahi hain?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I just finished reading 'Atomic Habits'",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Best book hai! Kaunsa part sabse zyada relatable laga?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera interview clear ho gaya finally!",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Party kab hai phir? Kaunsi company?\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Aaj kal ke gaane bahut hi repetitive ho gaye hain",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"True, waise last kaunsa gaana loop pe suna tha?\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai maine naya tattoo banwaya hai",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Mast! Kya design hai aur kahan banwaya?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "I think I'm addicted to Instagram reels",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Screen time kitna ja raha hai daily?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Maine ek puppy adopt kiya hai 🐶",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"So cute! Kya naam rakha hai uska?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye crypto market toh pura doob gaya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Tumne invest kiya tha kya?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Kal mere dost ki shaadi hai, kya pehnu samajh nahi aa raha",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Options kya kya hain? Suit ya Kurta?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Maine aaj 10km run kiya!",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Baap re! Kitna time laga complete karne mein?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "I am moving to Bangalore next week",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Nayi job hai ya transfer?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai naya iPhone lena worth it hai kya?",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Abhi kaunsa phone use kar rahe ho?\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Maine online ek course join kiya hai coding ka",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsi language seekh rahe ho?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Aaj lunch mein mummy ne biryani banayi thi",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Veg ya Non-veg? (War mat karwa dena 😂)\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai kal raat ko ek sapna aaya bahut ajeeb",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kya dekha sapne mein?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm planning to buy a house this year",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Investment ke liye ya rehne ke liye?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Maine aaj saari photos delete kar di purani",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kyun bhai? Breakup ho gaya kya?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Yaar ye Bangalore traffic is getting out of hand",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Aaj kitna time laga travel karne mein?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Maine naya gaming PC build kiya hai",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Specs kya hain? GPU kaunsa lagaya?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai weekend pe trek pe ja raha hoon",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsi place decide ki?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "I just watched the latest Marvel movie",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaisi lagi? Spoiler mat dena!\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Maine aaj subah 5 baje uthne ka try kiya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Sahi mein uth paye ya phir so gaye?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai mera break up ho gaya finally",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Are you okay? Kya hua suddenly?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Maine aaj ek naya instrument seekhna start kiya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Guitar ya Piano?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "I'm going to a concert tonight!",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsa artist perform kar raha hai?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj job quit kar di",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Wow! Ab aage ka kya plan hai?\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Maine aaj ek naya restaurant try kiya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaisa tha food? Worth it hai?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm starting a YouTube channel",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Niche kya hai? Vlogs ya Tech?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek purana dost mil gaya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kitne saal baad mile?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm learning a new language online",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"French, Spanish ya kuch aur?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek nayi car dekhi, mast thi",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsi car thi? Fortuner?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm going to the gym daily now",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Consistency kaise maintain kar rahe ho?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya game download kiya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"PC pe ya mobile pe?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "I'm planning a surprise for my mom's birthday",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Arre wah! Kya plan hai?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai maine aaj ek nayi watch li hai",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Smartwatch hai ya classic?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "I'm starting a new diet from tomorrow",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Keto ya normal home food?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya phone case liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Transparent hai ya koi design wala?\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "I'm going to a wedding this weekend",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kiski shaadi hai? Close friend?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek nayi recipe try ki",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaisi bani? Photo dikhao!\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm thinking of buying a DSLR",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Photography ke liye ya vlogging?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek purani movie dekhi",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsi? DDLJ type ya Action?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm going to a stand-up comedy show",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsa comedian aa raha hai?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya headphone liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Noise cancelling wala hai?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "I'm planning to start a podcast",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Topic kya hoga? Stories ya Interviews?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai maine aaj ek nayi shirt li",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsa color?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm going to a party tonight",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kahan pe hai party?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya app dekha, bahut cool hai",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kis cheez ka app hai?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm planning to go on a solo trip",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"India mein ya abroad?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya shoe liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Sneakers ya Formals?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "I'm thinking of starting a blog",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Travel pe ya Technology pe?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya bag liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Laptop bag hai ya backpack?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm going to a music festival",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunse bands aa rahe hain?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya bike helmet liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Full face hai ya open?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm planning to buy a new tablet",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"iPad ya Android?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya sunglasses liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Aviators ya Wayfarers?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm thinking of getting a hair cut",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Short karwane hain ya sirf trim?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya jacket liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Leather hai ya denim?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm going to a art exhibition",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kahan pe ho rahi hai?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya wallet liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Leather ka hai?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm planning to buy a new monitor",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Curved wala ya normal?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya belt liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunse brand ka?\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "I'm thinking of starting a garden",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Flowers ya Vegetables?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya cap liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Snapback hai?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm going to a food festival",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunse cuisines hain wahan?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya perfume liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Strong fragrance hai ya mild?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm planning to buy a new keyboard",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Mechanical hai?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya mouse liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Gaming mouse hai?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm thinking of getting a new tattoo",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Body pe kahan banwaoge?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya speaker liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Bluetooth wala hai?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm going to a dance class",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsa style seekh rahe ho?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya diary liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Journaling start kar rahe ho?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm planning to buy a new camera lens",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Prime lens ya Zoom?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya power bank liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kitne mAh ka hai?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm thinking of starting a yoga class",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Online karoge ya center jaoge?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya water bottle liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Copper ka hai ya steel?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm going to a photography workshop",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Professional photographer sikha raha hai?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya desk liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Standing desk hai?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm planning to buy a new chair",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Gaming chair ya Ergonomic?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya lamp liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Smart lamp hai?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm thinking of getting a new pet",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Cat ya Dog?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya rug liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Room ke liye?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm going to a book fair",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kahan pe ho raha hai?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya plant liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Indoor plant hai?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm planning to buy a new cycle",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"MTB ya Hybrid?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya frame liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Photo ke liye?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm thinking of starting a new hobby",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kya dimaag mein hai?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya mirror liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Full length hai?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm going to a tech conference",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsi companies aa rahi hain?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya clock liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Digital hai ya Analog?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm planning to buy a new bag",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Office ke liye?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya pen liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Fountain pen hai?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm thinking of getting a new pair of glasses",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Frame change kar rahe ho?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya tie liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Formal occasion ke liye?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm going to a fashion show",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsa designer hai?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya cushion liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Sofa ke liye?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm planning to buy a new towel",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Microfiber wala?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya yoga mat liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Extra thick hai?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm thinking of starting a collection",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kis cheez ki? Coins ya Stamps?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya pot liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Plants ke liye?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm going to a car show",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Supercars hain wahan?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya hanger liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Wooden hai?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm planning to buy a new umbrella",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Automatic opening wala?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya key chain liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Bike ke liye?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm thinking of getting a new rug for the room",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Kaunsa color suit karega?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya soap liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Handmade hai?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm going to a gadget expo",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Naye phones launch ho rahe hain?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya candle liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Scented hai?\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I'm planning to buy a new brush",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Painting ke liye?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya comb liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Wooden comb hai?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm thinking of getting a new poster",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Movie poster hai?\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya soap dish liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Ceramic ka hai?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I'm going to a startup meet",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Networking ke liye ja rahe ho?\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai maine aaj ek naya watch liya",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Waterproof hai?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I'm planning to buy a new bag",
+    "assistant": "{\"action\":\"ask_followup\",\"params\":{\"question\":\"Office ke liye?\"},\"confidence\":0.96}"
+  }
+]

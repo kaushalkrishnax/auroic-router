@@ -1,0 +1,506 @@
+[
+  {
+    "user": "Bhai mera birthday 15 August ko hota hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"birthday is August 15\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo ki mujhe peanuts se allergy hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"peanut allergy\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember this, my dog's name is Bruno 🐶",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"dog name is Bruno\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai ye yaad rakhna ki main Bangalore mein rehta hoon",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"location is Bangalore\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Mera favorite color blue hai, bhulna mat",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite color blue\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Note it down: My anniversary is on 20th December",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"anniversary December 20\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai yaad rakhna mera dream car Porsche hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"dream car Porsche\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ye yaad kar lo ki main vegetarian hoon",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"user is vegetarian\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Mera bhai ka naam Rahul hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"brother's name Rahul\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Please remember that I am a software engineer",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"profession software engineer\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai meri mom ka birthday kal hai, save kar lo",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"mom's birthday tomorrow\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I love black coffee without sugar",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"prefers black coffee no sugar\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Remember my office timing is 10 to 7",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"office hours 10am-7pm\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye yaad rakhna ki mujhe horror movies pasand nahi",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"dislikes horror movies\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Mera blood group O positive hai, note kar lo",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"blood group O+\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai yaad rakhna main gym subah 6 baje jata hoon",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"gym time 6am\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Remember, my bike number is 4545",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"bike number 4545\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe travel karna bahut pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves traveling\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Note kar lo ki mera graduation 2022 mein hua tha",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"graduated in 2022\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Mera favorite superhero Batman hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite superhero Batman\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Remember this: I am learning React right now",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"learning React\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai yaad rakhna main Delhi se hoon",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"hometown Delhi\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Mera netflix password 'password123' hai, yaad rakhna lol",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"netflix password stored\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Note kar lo, I am a big fan of Virat Kohli",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"Virat Kohli fan\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Remember that I wake up at 5 AM daily",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"wakes up at 5am\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai meri sister ka naam Anjali hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"sister's name Anjali\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Note kar lo ki mujhe pineapple pizza bilkul pasand nahi",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"hates pineapple pizza\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember my car service is due next Monday",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"car service next Monday\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai yaad rakhna mera goal 10kg weight loss karna hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"weight loss goal 10kg\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Mera favorite food Biryani hai, save kar lo dimaag mein",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite food Biryani\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note it: I am planning a Goa trip in November",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"Goa trip in November\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai yaad rakhna mera best friend ka naam Sumit hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"best friend name Sumit\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Remember I have a meeting with HR at 2 PM",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"HR meeting 2pm\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe coding pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"likes coding\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Note kar lo, I am allergic to dust",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"dust allergy\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Mera house number 101 hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"house number 101\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye yaad rakhna ki main iPhone use karta hoon",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"uses iPhone\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Remember my laptop password is 'admin'",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"laptop password stored\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe tea zyada pasand hai coffee se",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"prefers tea over coffee\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Note kar lo ki main 12th fail hoon lol",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"user is 12th fail\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Mera weight 75kg hai abhi, yaad rakhna track karne ke liye",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"current weight 75kg\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Remember I am a huge Marvel fan",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"Marvel fan\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe spicy khana pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"likes spicy food\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Note kar lo, my flight is at 10 PM tonight",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"flight tonight 10pm\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Mera dream destination Japan hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"dream destination Japan\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe driving ka shauk hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves driving\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Remember my cat's name is Luna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"cat name Luna\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note it down: I start work at 9 AM",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"work starts 9am\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai yaad rakhna mera favorite actor SRK hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite actor SRK\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Mera exam 25th ko hai, yaad dila dena",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"exam on 25th\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Remember I don't like loud music",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"dislikes loud music\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe mountains pasand hain beaches se zyada",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"prefers mountains over beaches\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Note kar lo ki main Python developer hoon",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"Python developer\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Mera favorite game PUBG hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite game PUBG\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai yaad rakhna main har Sunday cricket khelta hoon",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"plays cricket on Sundays\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Remember my wife's name is Priya",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"wife's name Priya\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Note kar lo, I am a night owl 🦉",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a night owl\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe swimming aati hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"knows swimming\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Mera favorite singer Arijit Singh hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite singer Arijit Singh\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Remember I am on a keto diet",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is on keto diet\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai yaad rakhna mera home address Mumbai ka hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"home address Mumbai\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo ki mujhe cats se darr lagta hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"scared of cats\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Remember my lucky number is 7",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"lucky number 7\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai yaad rakhna main non-smoker hoon",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a non-smoker\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Mera dream company Google hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"dream company Google\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Note kar lo, I love reading books",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves reading books\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Remember I am an early riser",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is an early riser\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe photography ka shauk hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves photography\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Mera height 6 feet hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"height 6ft\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I am a fan of anime",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"anime fan\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe rain pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves rain\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Note kar lo, I have a younger brother",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"has a younger brother\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Mera favorite movie Interstellar hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite movie Interstellar\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Remember I am learning guitar",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"learning guitar\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe sushi try karni hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"wants to try sushi\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Note kar lo, I am a tea lover",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"tea lover\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Remember I work as a designer",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"works as a designer\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe cycling pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves cycling\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera pet name Golu hai, yaad rakhna lol",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"pet name Golu\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Note kar lo, I am from Pune",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"from Pune\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Remember I am a fitness freak",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"fitness freak\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe skydiving karni hai ek din",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"wants to do skydiving\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Mera favorite fruit Mango hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite fruit Mango\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am a morning person",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a morning person\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Remember I have a black car",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"has a black car\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe chess khelna aata hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"knows chess\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Mera dream bike Hayabusa hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"dream bike Hayabusa\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Note kar lo, I am a foodie",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a foodie\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Remember I am an introvert",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is an introvert\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe cooking ka shauk hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves cooking\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera favorite holiday destination Goa hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite holiday Goa\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am a coffee addict ☕",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"coffee addict\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I have two cats",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"has two cats\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe gaming consoles pasand hain",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"likes gaming consoles\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Mera favorite sport Cricket hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite sport Cricket\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am a movie buff",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a movie buff\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I am learning French",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"learning French\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe gardening pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves gardening\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera favorite band The Local Train hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite band The Local Train\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am a dog person 🐕",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a dog person\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I have a sister",
+    "assistant": "{\"action\":\"memory_tool\",\"params\":{\"fact\":\"has a sister\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe painting pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves painting\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera favorite dessert Gulab Jamun hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite dessert Gulab Jamun\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am a tech enthusiast",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"tech enthusiast\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I am a fan of Star Wars",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"Star Wars fan\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe hiking pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves hiking\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera favorite season Winter hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite season Winter\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am a student",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a student\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I have a brother",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"has a brother\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe singing pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves singing\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera favorite drink Lemonade hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite drink Lemonade\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am a traveler",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a traveler\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I am a fan of Harry Potter",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"Harry Potter fan\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe puzzles pasand hain",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"likes puzzles\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera favorite animal Lion hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite animal Lion\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am a dreamer",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a dreamer\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I have a car",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"has a car\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe dancing pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves dancing\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera favorite place home hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite place home\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am an optimist",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is an optimist\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I have a job",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"has a job\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe learning pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves learning\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mera favorite color red hai, yaad rakhna",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"favorite color red\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Note kar lo, I am a writer",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"is a writer\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Remember I have a cat",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"has a cat\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai yaad rakhna mujhe gardening pasand hai",
+    "assistant": "{\"action\":\"conversation_memory\",\"params\":{\"fact\":\"loves gardening\"},\"confidence\":0.95}"
+  }
+]

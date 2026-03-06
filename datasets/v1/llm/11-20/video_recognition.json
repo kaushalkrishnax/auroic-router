@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai is video mein kya ho raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"what is happening\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is clip mein kaun hai? Pehchano",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify person\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye video kahan shoot hui hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify location\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "What happens at the end of this video?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"describe ending\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Isme jo gaana baj raha hai uska naam kya hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify background music\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai video mein car ka number plate dikh raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"read license plate\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ye recipe kaise banayi isne? Steps batao",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"explain recipe steps\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Is short clip mein total kitne log hain?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"count people\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ye prank video real hai ya script hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze authenticity\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Is video mein jo ladki hai usne kya pehna hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"describe outfit\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai isme kuch funny hua kya? Maine miss kar diya",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"find funny moments\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Ye konsi movie ka trailer hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify movie/trailer\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Summarize kar do is puri video ko",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"summarize video\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Isme jo dog hai wo konsi breed ka hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify dog breed\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Video mein jo accident hua wo kaise hua?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"explain accident cause\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ye tutorial mein next step kya hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify next instruction\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Is video mein jo text aa raha hai wo copy kar do",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"extract text from video\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye video edit ki gayi hai kya?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect edits/vfx\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Isme jo mobile use ho raha hai wo konsa hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify gadget\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Video mein jo dance step hai uska naam kya hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify dance move\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Explain what is happening at 0:45 in the clip",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"describe timestamp 0:45\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye video kab ki lag rahi hai? Purani hai kya?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"estimate video age\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Isme kitni cars crash hui hain?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"count car crashes\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye video mein jo instruction hai wo Hindi mein batao",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"translate audio/text to hindi\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is clip mein koi logo dikh raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify brand logo\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai is video mein koi hidden detail hai kya?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"find easter eggs\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Ye video mein jo building giri wo kahan ki hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify landmark/event\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Isme jo sports match hai uska score kya hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"read scoreboard\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Video mein jo banda hai wo gussa kyun hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze emotion/context\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is clip mein jo magic trick ki wo kaise ki?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"explain magic trick\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai is video mein kitne goals hue?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"count goals\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye konsi language mein baat kar rahe hain video mein?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify language\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is video mein jo product hai uska review kaisa hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"summarize product review\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai isme koi scary part hai kya? Darr lagta hai",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect jumpscares\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is clip mein jo bird hai wo ud kyun nahi rahi?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze bird behavior\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Video mein jo phone number likha hai wo batao",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"extract phone number\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Isme jo fighter jet hai wo konsa model hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify aircraft\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye video green screen pe bani hai kya?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect green screen\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Is clip mein jo bachha hai wo ro kyun raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"explain child behavior\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Video mein jo car drift mari wo kisne mari?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify driver/person\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Isme jo workout exercise hai wo sahi form mein hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze exercise form\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai video mein jo news aa rahi hai uska summary do",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"summarize news clip\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is clip mein jo bhediya hai wo real hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify if animal is cgi\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Video mein jo sign language hai uska matlab kya hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"interpret sign language\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Isme jo fight scene hai wo real fight hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze fight authenticity\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai video mein jo background hai wo fake lag raha hai",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze background\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Is clip mein jo instrument baj raha hai wo guitar hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify musical instrument\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Video mein jo QR code flash hua wo read karo",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"scan qr code from video\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Isme jo science experiment kiya uska result kya tha?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"explain experiment result\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai video mein jo bike hai wo kitni speed pe hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"estimate speed\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Is clip mein jo painting banayi wo kiski hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify subject of painting\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Video mein jo laptop screen dikh rahi hai usme kya hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"describe screen content\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Isme jo interview ho raha hai wo kiske saath hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify interviewee\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye video looping hai kya?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect loop\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo kya bol raha hai? Subtitles do",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"transcribe audio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Video mein jo light flash ho rahi hai wo kya hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify light source\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Isme jo yoga pose hai uska naam batao",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify yoga pose\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai video mein jo crowd hai wo kyun chilla raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"explain crowd reaction\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is clip mein jo car hai wo automatic hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify car features\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Video mein jo weather hai wo stormy hai kya?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze weather conditions\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Isme jo food dish hai wo veg hai ya non-veg?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify food type\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai video mein jo person hai uski age kya hogi?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"estimate age\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Is clip mein jo gadget unbox kiya wo kaisa hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"summarize unboxing\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Video mein jo building hai wo kitne floor ki hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"count floors\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Isme jo animal hai wo attack karne wala hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"predict animal behavior\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai video mein jo sunset hai wo real hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze visual effects\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo mask kyun pehna hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"explain context\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Video mein jo car ka color hai wo change ho raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect color change vfx\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Isme jo speech di gayi uska main point kya tha?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"summarize speech\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai video mein jo road hai wo kahan ja rahi hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"describe road path\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo darr raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze facial expressions\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Video mein jo ocean hai usme whales dikh rahi hain?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect whales\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Isme jo exercise steps hain wo repeat karo",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"list exercise steps\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai video mein jo phone hai uska screen tuta hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect screen damage\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo left-handed hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect handedness\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Video mein jo background music hai wo copyright free hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"check music copyright status\"},\"confidence\":0.85}"
+  },
+  {
+    "user": "Isme jo car hai wo petrol hai ya diesel?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify engine type\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai video mein jo sky hai wo blue kyun nahi hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze sky color\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo smile kar raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect smile\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Video mein jo crowd hai wo kitna bada hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"estimate crowd size\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Isme jo food dish hai uska taste kaisa bataya isne?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"summarize food review\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai video mein jo bike hai uska model kya hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify bike model\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo kya search kar raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"describe action\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Video mein jo plane ud raha hai wo kitni height pe hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"estimate flight altitude\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Isme jo yoga pose hai wo beginner ke liye hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"assess difficulty level\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai video mein jo person hai wo thaka hua lag raha hai",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze body language\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is clip mein jo car hai wo luxury hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect luxury items\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Video mein jo background hai wo real location hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze location authenticity\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Isme jo speech hai wo inspiring hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze tone of speech\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai video mein jo road hai wo safe hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze road safety\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo glasses pehna hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect glasses\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Video mein jo ocean hai wo deep lag raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze water depth\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Isme jo exercise hai wo back pain ke liye hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify exercise purpose\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai video mein jo phone hai uska color kya hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify phone color\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo running kar raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect running action\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Video mein jo background music hai wo loud hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze volume level\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Isme jo car hai wo white color ki hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify car color\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai video mein jo sky hai wo clear hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect clear sky\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo khush lag raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze mood\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Video mein jo crowd hai wo disciplined hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze crowd behavior\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Isme jo food dish hai wo spicy lag rahi hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze food appearance\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai video mein jo bike hai wo electric hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect electric vehicle\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo phone use kar raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect phone usage\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Video mein jo plane hai wo landing kar raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect landing action\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Isme jo yoga pose hai wo difficult hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"assess pose difficulty\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai video mein jo person hai wo nervous lag raha hai",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect nervousness\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is clip mein jo car hai wo moving hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect motion\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Video mein jo background hai wo blurry hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze image quality\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Isme jo speech hai wo loud hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze audio volume\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai video mein jo road hai wo empty hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect empty road\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo hat pehna hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect hat\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Video mein jo ocean hai wo blue hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify water color\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Isme jo exercise hai wo leg day ke liye hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify muscle group\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai video mein jo phone hai wo new model hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"assess phone age\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo jump kar raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect jumping action\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Video mein jo background music hai wo fast hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze music tempo\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Isme jo car hai wo automatic lag rahi hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect automatic transmission\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai video mein jo sky hai usme clouds hain?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect clouds\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo sad lag raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect sadness\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Video mein jo crowd hai wo noisy hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"analyze noise level\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Isme jo food dish hai wo healthy hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"assess food healthiness\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai video mein jo bike hai wo fast chal rahi hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"estimate bike speed\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Is clip mein jo person hai wo walk kar raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect walking action\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Video mein jo plane hai wo takeoff kar raha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"detect takeoff action\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Isme jo yoga pose hai wo back ke liye acha hai?",
+    "assistant": "{\"action\":\"video_recognition\",\"params\":{\"question\":\"identify health benefits\"},\"confidence\":0.95}"
+  }
+]

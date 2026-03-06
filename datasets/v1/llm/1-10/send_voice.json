@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai voice note bhej ek",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Haan bhai, kya haal chaal?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bolke batao na kaise ho",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Main ekdum badhiya hoon, tum batao!\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Send me a voice message",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Hey there! Hope you are having a great day.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Mujhe tumhari awaaz sunni hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Zaroor, kaisi lag rahi hai meri voice?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ek audio message bhejo jaldi",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ji bilkul, ye raha aapka audio message.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Voice msg mein reply karo",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Theek hai, ab se voice mein hi baat karte hain.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Can you speak this out?",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sure, I am speaking this out for you.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai kuch bol ke sunao maza nahi aa raha",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Arre maza kyun nahi aa raha? Kya hua?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Audio note bhej do ek mast sa",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye lo ek mast sa audio note aapke liye.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Voice mein batao dinner mein kya khaya",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Maine toh aaj ghar ki daal roti khayi, tumne?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "I want to hear your voice, send audio",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Here is the audio you requested!\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bolke batao kal ka kya plan hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Kal ka plan toh abhi tak set nahi hai yaar.\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Ek pyara sa voice note bhej do",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Aap itne pyaar se bol rahe ho toh ye lo voice note.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Voice message record karke bhej",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Recording... done! Ye suno.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai thoda bol ke entertain karo",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Entertainment chahiye? Chalo thodi baatein karte hain.\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Voice note please 🎙️",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Coming right up!\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Mujhe audio reply chahiye abhi",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Thoda sabar karo, ye lo audio reply.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bolke sunaao kya haal hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sab badiya hai bhai, life ekdum set hai.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Send a voice clip",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sending a quick voice clip to you.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai audio bhej na, typing boring hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sahi baat hai, typing mein bahut mehnat lagti hai.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Voice mein reply do na please",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Okay, ye raha mera voice response.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ek voice note toh banta hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Bilkul banta hai! Kaise ho aap?\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bol ke batao kitna time lagega",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Bas 5 minute aur, thoda wait kar lo.\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Audio message bhejona yaar",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Gussa kyun ho rahe ho? Ye lo audio.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Voice note bhej ke batao kaisa laga",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Mujhe toh bahut pasand aaya, seriously!\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Can you respond with a voice note?",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Yes, I can respond with a voice note.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai voice msg bhej, mummy pass mein hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Arre, toh earphones laga lo phir sunna.\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Mujhe sunna hai tum kya bol rahe ho",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Main bol raha hoon ki tum bahut ache ho.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Voice note bhejo jaldi se",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Processing... and sent! Suno ise.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Audio mein reply kar do bhai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Done! Audio reply bhej diya hai.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bolke samjhao ye kaise hoga",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Dekho, iska process bahut simple hai.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice clip bhej ek mast wali",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye lo, ekdum kkadak voice clip.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Reply me in voice, I'm driving",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Safe drive karna! Main audio bhej raha hoon.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai voice note bhej, padhne ka mann nahi",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Haha, laziness at its peak! Ye lo audio.\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Voice note bhej ke surprise karo",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Surprise! Kaisi lagi meri awaaz?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ek audio bhej do morning wish ka",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Good morning! Have a fantastic day ahead.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Voice message bhej sakte ho kya?",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Haan, kyun nahi? Ye suniye.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai audio bhej, typing nahi ho rahi",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Koi nahi, main hoon na audio bhejne ke liye.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Voice note mein batao kya chal raha hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Bas baitha hoon aur tumse baatein kar raha hoon.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Send voice message now",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sent! Check your messages.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Audio mein hello bolo",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Hello! Kaise ho aap sab?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek voice note toh bhej de kam se kam",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye lo bhai, gussa mat ho.\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Voice reply please, urgent hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Theek hai, ye lo mera urgent voice reply.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bolke suna do ek baar",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ek baar kya, baar baar suno!\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Audio note bhej do, I'm lazy",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Lazy logon ke liye voice note hi best hai.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai voice note bhej, screen choti hai phone ki",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Haha, okay! Audio sun lo phir.\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Voice message bhejo, awaaz pehchan ni hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Pehchano toh phir, kaun bol raha hoon main?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Send me a quick audio",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Quick audio coming your way!\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai bol ke batao party kahan hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Party toh mere ghar pe hai, aajao!\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Voice note bhej ke batao kitna khush ho",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Main bahut khush hoon aaj!\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio note please, busy hoon",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Busy ho toh audio hi sun lo, easy rahega.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice message bhej de ek",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye lo bhai, enjoy karo.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Voice mein sunna hai mujhe ye baat",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Acha? Toh suno phir dhyan se.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Send audio message for me",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sure, sending an audio message just for you.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai voice note bhej, feel aati hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sahi kaha, voice mein zyada feel aati hai.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice reply chahiye mujhe bas",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Theek hai, sirf voice mein hi baat karenge.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bolke batao dinner plan",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Dinner mein aaj bahar chalte hain, kya bolte ho?\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Voice clip bhej do ek",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye rahi aapki voice clip.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai audio bhej, hands busy hain",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"No problem, audio sun lo kaam karte karte.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Voice note bhej ke wish karo",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Happy Birthday! Party kab de rahe ho?\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Audio mein reply karo fast",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Fastest audio reply ever!\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai voice note bhej, typing se dukh raha hai hath",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Hath thak gaye? Chalo audio suno.\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Voice message bhej de yaar",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye lo yaar, sun lo ab.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio note bhejo na please",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Please mat bolo, ye lo audio.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai bol ke batao kya scene hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Scene ekdum sort hai bhai.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice note bhej ke batao kahan ho",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Main toh apne room mein hoon abhi.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Send me a voice note right now",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sending it right now!\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai audio bhej, network slow hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Slow network mein audio hi sahi chalta hai.\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Voice message bhej ke samjhao",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Samajh lo phir, main bol raha hoon.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio reply bhej do ek baar",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye raha mera pehla audio reply.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice note bhej, bore ho raha hoon",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Bore mat ho, meri baatein suno.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice clip please 🎤",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Mic check, 1 2 3... ye suniye.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Audio note bhej ke batao kaisa raha din",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Din toh bahut thaka dene wala tha.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai bolke batao kya khaye",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Maine toh pizza khaya, bahut tasty tha.\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Voice note bhej, I'm at the gym",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Gym mein ho toh workout pe dhyan do!\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Send audio response",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Here is your audio response.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice note bhej, eyes pain ho raha",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Aankhon ko rest do, audio suno.\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Voice message bhej ke batao news",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Aaj ki taaza khabar ye rahi.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio note bhej do ek pyara sa",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Aapke liye ek pyara sa audio note.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai voice note bhej, bike chala raha hoon",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Bike pe phone mat chalana! Audio sun lo.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice reply do na",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Haan, ye raha mera voice reply.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Audio mein batao kab aaoge",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Main bas nikalne hi wala hoon.\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai voice note bhej, typing me aalas aa raha",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Aalas ka ilaaj voice note hi hai.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Voice message bhej ke thank you bolo",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Thank you so much, dil se!\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Send voice note asap",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"As soon as possible! Suniye.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai audio bhej, music sun raha hoon",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Music band karo aur meri voice suno.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice note bhej ke gaana sunao",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"La la la... kaisa laga mera gaana?\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio note bhej do ek mast",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye lo, ekdum mast audio note.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice note bhej, dosto ko sunana hai",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Dosto ko mera hello bolna!\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Voice message bhej ke batao secret",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Secret hai toh voice note mein hi sahi rahega.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Audio reply please, working",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Working hard? Ye audio sun ke relax karo.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice note bhej, typing nahi ho rahi",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Koi baat nahi, ye lo audio.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Voice note bhej ke batao kaisa hai weather",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Weather toh ekdum suhana ho rakha hai.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Send a voice clip now",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Clip sent! Check it out.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai audio bhej, khana kha raha hoon",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Khana khao maze se, aur audio suno.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice message bhej ke batao plan",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Plan toh solid hai, bas execute karna hai.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio note bhej do ek baar aur",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ek aur baar? Ye lo phir.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice note bhej, I'm in a meeting",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Meeting mein phone kyun chala rahe ho? 😂\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Voice note bhej ke batao result",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Result toh bahut acha aaya hai!\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Send me an audio msg",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Audio message is on its way!\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai audio bhej, typing se bore ho gaya",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Boring life ko interesting banate hain voice note se.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice message bhej ke batao location",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Main toh abhi market mein hoon.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Audio note please, driving home",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Safe drive! Suno ye audio.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice note bhej, need motivation",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"You can do it! Haar mat manna.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Voice note bhej ke batao movie kaisi thi",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Movie toh ekdum paisa vasool thi!\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Send voice message to me",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sent! Hope you like it.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai audio bhej, I'm walking",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Walking karte karte audio sunna best hai.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice message bhej ke batao kya hua",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Hua kuch nahi, bas thoda busy tha.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Audio note bhej do please, urgent",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye lo urgent audio note.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice note bhej, typing is hard",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Hard work nahi, smart work karo audio sun ke.\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Voice note bhej ke batao dinner",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Dinner mein aaj paneer bana hai.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Send me a voice clip please",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Sure, here is your voice clip.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai audio bhej, I'm cooking",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Kya bana rahe ho? Audio sunte sunte banao.\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Voice message bhej ke batao match score",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Match toh bahut tight chal raha hai abhi.\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio note bhej do ek baar",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Ye raha aapka audio note.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice note bhej, typing se thak gaya",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Thak gaye? Chalo rest karo aur audio suno.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Voice note bhej ke batao party",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Party toh bahut grand hone wali hai.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Send voice response now",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Responding in voice right now!\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai audio bhej, I'm at work",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Work pe ho toh focus karo, audio baad mein sunna.\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Voice message bhej ke batao trip",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Trip toh ekdum yaadgaar rahi meri.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio note bhej do, I'm outside",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Outside ho toh audio hi convenient hai.\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai voice note bhej, jaldi",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Jaldi sent! Sun lo ab.\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Voice note bhej ke batao news",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Aaj ki news toh bahut shocking hai.\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Send me a voice note",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Voice note sent to your chat.\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai audio bhej, typing is boring",
+    "assistant": "{\"action\":\"send_voice\",\"params\":{\"text\":\"Boring life ko bye kaho, audio ko hello.\"},\"confidence\":0.94}"
+  }
+]

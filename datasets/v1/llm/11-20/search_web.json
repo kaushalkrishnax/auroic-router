@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai Virat Kohli ke total international centuries kitne hain?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Virat Kohli total international centuries\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Aaj ka weather kaisa hai Delhi mein?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Delhi weather today\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the CEO of Google right now?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current CEO of Google\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye iPhone 16 ki India mein price kya hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"iPhone 16 price in India\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Stock market aaj up hai ya down?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Nifty 50 today status\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai movie 'Kalki' ka box office collection kitna hua?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Kalki 2898 AD box office collection\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Duniya ki sabse tall building konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"tallest building in the world\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai next IPL kab se start ho raha hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"IPL 2025 start date\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Elon Musk ki net worth kitni hai abhi?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Elon Musk real time net worth\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai gold ka rate kya chal raha hai aaj?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"gold price today in India\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Who won the T20 World Cup 2024?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"T20 World Cup 2024 winner\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai best budget smartphone under 20k suggest kar",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"best smartphones under 20000 in India 2024\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "India ka President kaun hai abhi?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current President of India\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai Bitcoin ka price kya hai in INR?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"bitcoin price in INR today\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the highest paid actor in Bollywood?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"highest paid Bollywood actor 2024\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai Euro Cup final kab hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Euro Cup final date and time\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Duniya ka sabse ameer aadmi kaun hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"richest person in the world 2024\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai nearby best biryani place suggest kar",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"best biryani restaurants near me\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "How many states are there in India?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"total states and UTs in India\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai Shah Rukh Khan ki next movie konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Shah Rukh Khan upcoming movies\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "What is the capital of France?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"capital of France\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai Olympic 2024 mein India ne kitne medals jeete?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"India medal tally Olympics 2024\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Who invented the light bulb?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"inventor of light bulb\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai Dollar vs Rupee ka exchange rate kya hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"USD to INR exchange rate today\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Is it going to rain in Mumbai tomorrow?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Mumbai rain forecast tomorrow\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ChatGPT kisne banaya?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"creator of ChatGPT OpenAI\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Who is the current Prime Minister of UK?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current PM of United Kingdom\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai moon pe pehla kadam kisne rakha tha?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"first person on the moon\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the distance between Earth and Sun?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"distance from earth to sun\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai Amazon Prime ka subscription plan kya hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Amazon Prime India subscription plans\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Who won the Oscar for best movie this year?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Oscar best picture winner 2024\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world cup 2023 ka final kahan hua tha?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"ICC World Cup 2023 final venue\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "What is the full form of NASA?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"NASA full form\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai Mukesh Ambani ka ghar kitne ka hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Antilia house price Mukesh Ambani\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Who is the founder of Microsoft?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"founder of Microsoft\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai India vs Pakistan match kab hai next?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"upcoming India vs Pakistan cricket match schedule\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "What is the population of India in 2024?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current population of India 2024\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai best web series on Netflix right now?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"top trending Netflix web series 2024\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Who is the richest actor in the world?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"richest actor in the world\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai petrol price in Bangalore today?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"petrol price in Bangalore today\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "When is the next solar eclipse?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"next solar eclipse date and time\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai G20 summit kahan ho rahi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"G20 summit 2024 venue\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Who is the father of Artificial Intelligence?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"father of AI\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai highest mountain peak in India?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"highest mountain peak in India\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "What is the speed of light?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"speed of light in vacuum\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world ka sabse bada country area wise?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"largest country in the world by area\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who wrote the national anthem of India?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"author of Indian national anthem\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai Reliance Industries ka share price kya hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Reliance share price today\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the current Governor of RBI?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current RBI Governor\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world cup football kab hai next?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"next FIFA World Cup date\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "What is the currency of Japan?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"currency of Japan\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai India ka first Prime Minister kaun tha?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"first PM of India\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who won the IPL 2024 final?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"IPL 2024 winner team\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai current temperature in Shimla?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current temperature in Shimla\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "How many planets are there in our solar system?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"number of planets in solar system\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world cup 2024 kahan hua tha?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"T20 World Cup 2024 host countries\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Who is the CEO of Tesla?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"CEO of Tesla\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai India ka national bird kya hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"national bird of India\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the tallest animal on land?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"tallest land animal\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai Microsoft ka current CEO kaun hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current CEO of Microsoft\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the captain of Indian Cricket Team?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current captain of Indian cricket team all formats\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world cup 2023 mein sabse zyada runs kisne banaye?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"highest run scorer in World Cup 2023\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "What is the capital of Japan?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"capital of Japan\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world ki sabse lambi river konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"longest river in the world\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the founder of Facebook?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"founder of Facebook\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai current price of Ethereum?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Ethereum price today\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the age of Amitabh Bachchan?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Amitabh Bachchan age\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world ka sabse chota country konsa hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"smallest country in the world by area\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the richest woman in India?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"richest woman in India 2024\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai world cup cricket 2027 kahan hoga?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"ICC World Cup 2027 host country\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the full form of ISRO?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"ISRO full form\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai India ki longest train konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"longest train route in India\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Who is the CEO of Apple?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current CEO of Apple\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world cup 2024 mein India ke captain kaun the?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"India captain T20 World Cup 2024\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "What is the capital of Australia?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"capital of Australia\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world ki sabse fast car konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"fastest car in the world 2024\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Who is the current President of USA?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current President of United States\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai current price of Silver in Delhi?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"silver price today in Delhi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the age of Narendra Modi?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Narendra Modi age\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world ka sabse bada ocean konsa hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"largest ocean in the world\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the founder of SpaceX?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"founder of SpaceX\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai India ka national animal kya hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"national animal of India\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the tallest statue in the world?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"tallest statue in the world\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai current CEO of Twitter (X)?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current CEO of Twitter X\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the captain of Indian Women's Cricket Team?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current captain of Indian women's cricket team\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world cup 2023 ka winner kaun tha?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"ICC World Cup 2023 winner\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the capital of Canada?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"capital of Canada\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world ki sabse purani language konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"oldest language in the world\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Who is the founder of Amazon?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"founder of Amazon\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai current price of Gold in Mumbai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"gold price today in Mumbai\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the age of Virat Kohli?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Virat Kohli age\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world ka sabse bada desert konsa hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"largest desert in the world\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the richest person in India?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"richest person in India 2024\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world cup 2026 kahan hoga?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"FIFA World Cup 2026 host countries\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the full form of WHO?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"WHO full form\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai India ki longest river konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"longest river in India\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the CEO of Meta?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"CEO of Meta Mark Zuckerberg\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world cup 2024 mein sabse zyada wickets kisne liye?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"highest wicket taker T20 World Cup 2024\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "What is the capital of Germany?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"capital of Germany\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world ki sabse mehengi car konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"most expensive car in the world 2024\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Who is the current President of Russia?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current President of Russia\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai current price of Petrol in Delhi?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"petrol price today in Delhi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the age of MS Dhoni?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"MS Dhoni age\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world ka sabse bada island konsa hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"largest island in the world\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the founder of Google?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"founders of Google\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai India ka national flower kya hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"national flower of India\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the tallest mountain in the world?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"tallest mountain in the world\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai current CEO of Disney?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current CEO of Disney\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Who is the captain of Indian Football Team?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current captain of Indian football team\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world cup 2019 ka winner kaun tha?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"ICC World Cup 2019 winner\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the capital of Italy?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"capital of Italy\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world ki sabse badi lake konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"largest lake in the world by area\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Who is the founder of Netflix?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"founders of Netflix\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai current price of LPG cylinder in Delhi?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"LPG cylinder price today in Delhi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the age of Shah Rukh Khan?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Shah Rukh Khan age\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai world ka sabse garam place konsa hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"hottest place on earth\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Who is the richest person in the world right now?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"richest person in the world real time\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world cup 2025 kahan hoga?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"Champions Trophy 2025 host country\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the full form of UN?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"UN full form\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai India ki sabse badi city area wise?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"largest city in India by area\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Who is the CEO of Nvidia?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"CEO of Nvidia Jensen Huang\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world cup 2024 mein final kiske beech hua?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"T20 World Cup 2024 final teams\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is the capital of Spain?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"capital of Spain\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai world ki sabse fast train konsi hai?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"fastest train in the world 2024\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Who is the current President of France?",
+    "assistant": "{\"action\":\"search_web\",\"params\":{\"query\":\"current President of France\"},\"confidence\":0.99}"
+  }
+]

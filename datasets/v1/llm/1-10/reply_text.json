@@ -1,0 +1,502 @@
+[
+  {
+    "user": "kya haal hai bhai?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "can you explain how photosynthesis works?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "aaj ka din bohot bekar tha yaar",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "tell me a joke in hindi",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"funny\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "who is the prime minister of india?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "yaar bore ho raha hoon kuch bata",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "how to make maggi in 2 mins?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "i love you ai",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "tujhe kya lagta hai kal baarish hogi?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "suggest some good movies on netflix",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "khana kha liya?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "what is the capital of france?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "tu pagal hai kya?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"witty\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "help me with my homework please",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "good morning ji",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "is it safe to travel to ladakh in december?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "mujhe neend nahi aa rahi",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"comforting\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "write a short poem about rain in hinglish",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"creative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "football match ka score kya hai?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "happy birthday to me!",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"enthusiastic\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "how do i lose weight fast?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "yaar breakup ho gaya mera",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "what are the benefits of yoga?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "tu ladka hai ya ladki?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "best smartphone under 20k?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "mummy daant rahi hain bina baat ke",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "give me a workout routine for beginners",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "why is the sky blue?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "ooye sunn na",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "i am feeling very lonely today",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "physics bohot mushkil hai yaar",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"sympathetic\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "how to say 'i love you' in spanish?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "cricket updates dena zara",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "aapka naam kya hai?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "tell me a horror story",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"storytelling\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "exams aa rahe hain bohot darr lag raha",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"encouraging\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "should i buy iphone or android?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "meaning of 'atithi devo bhava'",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "waah kya baat hai",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"enthusiastic\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "how to make money online?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "delhi mein ghumne ki best jagah?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "i'm so happy today!",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"enthusiastic\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "what is the speed of light?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "chai vs coffee, what do you prefer?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "can you write a professional email for sick leave?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"formal\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "zindagi jhand hai bhai",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "how to improve communication skills?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "bro ek favor chahiye tha",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "who won the world cup in 2011?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "yaar ye coding samajh nahi aati",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"encouraging\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "good night, sweet dreams",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "how to bake a chocolate cake?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "man nahi lag raha padhai mein",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"motivational\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "what is artificial intelligence?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "kuch naya sikhao aaj",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "i am bored of my life",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "best way to learn english?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "aap kahan se ho?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "can you summarize this news article?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "party kahan hai aaj?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"playful\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "difference between ram and rom",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "mujhe gussa aa raha hai bohot",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"calming\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "is drinking green tea actually helpful?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "suggest a good name for my baby boy",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "main kaisa dikhta hoon?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"playful\"},\"confidence\":0.85}"
+  },
+  {
+    "user": "how to fix a leaking tap?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "i am tired of working so hard",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "what is the meaning of life?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"philosophical\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "can you help me plan a trip to Goa?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "meri girlfriend gussa hai kaise manau?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "how to make a resume?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "aap thak gaye kya?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "what is global warming?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "kya main ameer ban sakta hoon?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"motivational\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "tell me some interesting space facts",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "i miss my school days",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"nostalgic\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "how to meditate for beginners?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "aapka favourite actor kaun hai?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "write a funny caption for my photo",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"witty\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "is crypto a good investment?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "khush rehne ka raaz kya hai?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"philosophical\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "tell me about the history of taj mahal",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "mujhe naye gaane suggest karo",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "how to handle stress at work?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "ghar pe akela hoon kya karu?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "how to start a startup?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "aap bore nahi hote?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "what is the best time to sleep?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "give me some motivational quotes",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"motivational\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "kya aliens hote hain?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "how to cook biryani step by step?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "i feel like giving up",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"encouraging\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "what are the symptoms of common cold?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "mere paas paise nahi hain",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "can you translate this to hindi?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "why do we dream?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "aap insaan ho?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "how to make a paper plane?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "i am very proud of myself",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"enthusiastic\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "is social media bad for us?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "kya tum meri dost banogi?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "how to improve memory power?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "give me some life hacks",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "what is the current price of gold?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "aap khana kya khate ho?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"playful\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "how to gain confidence in public speaking?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "i want to travel the world",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"enthusiastic\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "what is the largest ocean?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "kya tum thak gaye ho chat karke?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "how to remove stains from clothes?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "i have a headache",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "can you tell me a riddle?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"playful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "what is the best way to save money?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "aap mere saath game kheloge?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "how to keep hair healthy?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "i failed in my test",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"encouraging\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "what is the distance to the moon?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "best protein source for vegetarians?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "kya tum so sakte ho?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "how to clear an interview?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "i am feeling sleepy",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "what is the national animal of india?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "can you suggest a good book to read?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "how to grow taller?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "aap kitne saal ke ho?",
+    "assistant": "{\"action\":\"reply_text\",\"params\":{\"tone\":\"playful\"},\"confidence\":0.91}"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai ye konsa gana hai? Pehchan sakte ho?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify song\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Audio mein jo banda bol raha hai wo kya keh raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"transcribe audio content\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is background music ka naam batao please",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify background music\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ye voice kiski hai? Any famous person?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify speaker\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Identify this sound... chirping hai ya kuch aur?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify sound source\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai is audio mein kitne log baat kar rahe hain?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"count speakers\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Ye konsi language mein audio hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify language\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio mein jo shor hai wo kis cheez ka hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze background noise\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Is gaane ke lyrics kya hain? Sun ke batao",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"extract lyrics\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai audio clear nahi hai, par kya ye koi news hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze audio category\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Ye instrumental konsa hai? Piano ya Guitar?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify musical instrument\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Audio mein jo instruction di hai wo repeat karo",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"summarize instructions\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is voice clip mein banda gussa hai ya khush?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze sentiment\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ye konsi movie ka dialogue hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify movie dialogue\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai audio mein jo bird hai wo pehchano",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify bird call\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Is recording mein koi secret message hai kya?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect hidden audio\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Ye audio real hai ya AI generated voice hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect ai voice\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Audio clip mein jo phone number bola wo likh do",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"extract phone number from audio\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai ye audio loop mein hai kya?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect audio loop\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Is voice note ka summary chahiye",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"summarize voice note\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ye gaana original hai ya remix?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect remix or original\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Audio mein jo animal sound hai wo tiger ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify animal sound\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is audio ka bit rate kya hai? Quality check karo",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"check audio quality\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Bhai ye audio clip kitni purani lag rahi hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"estimate audio age\"},\"confidence\":0.85}"
+  },
+  {
+    "user": "Ye konsi country ka accent hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify accent\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Audio mein jo address bola wo copy karo",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"extract address from audio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye audio recording hai ya live sound?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze audio source type\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Isme jo gaana baj raha hai wo trend mein hai kya?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"check song popularity\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Audio mein jo lady bol rahi hai uska mood kaisa hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze speaker emotion\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ye audio file corrupted hai kya? Sunai nahi de raha",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"check for file corruption\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Is audio mein jo beat hai wo techno hai ya house?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify music genre\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai audio mein jo baccha ro raha hai wo kyun ro raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"explain audio context\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Ye konsi company ki tune hai? Logo music?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify brand jingle\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio clip mein jo machine ki awaaz hai wo kya hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify machine sound\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is voice note ko English mein translate kar do",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"translate audio to english\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaali di wo kisne di?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify speaker of specific part\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Ye audio mein jo gaana hai wo Spotify pe milega?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"check song availability\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Audio clip mein jo flight announcement hai wo suno",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze announcement\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is audio mein jo whistle hai wo kisi signal ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify whistle sound\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai audio mein jo gaana hai uska singer kaun hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify singer\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is recording mein jo date boli wo kya hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"extract date from audio\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio mein jo sound hai wo rain ki hai ya fire ki?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"distinguish sounds\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye audio mein jo person hai wo nervous lag raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze voice stress\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is audio clip ka main topic kya hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify topic\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ye konsi car ki engine sound hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify engine sound\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Audio mein jo instruction hai wo follow karni hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"interpret audio instruction\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai ye audio mein jo sound hai wo horror lag rahi",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze audio vibe\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo drunk lag raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze speaker state\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Ye audio mein jo gaana hai uska album name kya hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify album\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio clip mein jo background noise hai wo remove ho sakta hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"assess noise reduction possibility\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai audio mein jo lady hai wo kitne saal ki hogi?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"estimate speaker age\"},\"confidence\":0.84}"
+  },
+  {
+    "user": "Is recording mein jo meeting ho rahi hai wo kahan ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify meeting context\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo ocean ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify nature sound\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo kya search kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify speaker intent\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai uska year kya hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify song release year\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is recording mein jo dialogue hai wo kitne second pe hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"find timestamp of dialogue\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo doorbell ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify notification sound\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo left channel se bol raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze audio panning\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo sad hai ya happy?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"analyze song mood\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo reading kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect reading action\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo train ki whistle hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify specific alert sound\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo whisper kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect whispering\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo hip hop hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify music genre\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo gaana gaa raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect singing\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo keyboard typing ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify peripheral sound\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo breathe kar raha loud?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect heavy breathing\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo instrumental hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"check for vocals\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo crying kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect crying sound\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo thunder ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify weather sound\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo laughing kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect laughter\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo 90s ka hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"estimate song era\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo shouting kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect shouting\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo clock ticking ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify clock sound\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo cough kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect coughing\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo acoustic hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify music style\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo yawning kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect yawning\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo glass breaking ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify impact sound\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo eating kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect eating sounds\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo EDM hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify electronic music\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo running kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect movement sound\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo siren ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify siren sound\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo clapping kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect clapping\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo rock music hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify rock genre\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo sleeping kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect snoring/sleep sounds\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo wind ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify wind sound\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo typing kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify typing sound\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo jazz hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify jazz music\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo walking kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect footsteps\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo water dripping ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify water sound\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo writing kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify writing sound\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo classical hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify classical music\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo whistling kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect whistling\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo heartbeat ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify heartbeat sound\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo snapping kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect finger snapping\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo country music hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify country music\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo sneezing kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect sneezing\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo camera shutter ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify camera sound\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo hum kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect humming\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo metal hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify metal music\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo sigh kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect sighing\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo paper tearing ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify paper sound\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo drinking kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect drinking sound\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo blues hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify blues music\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo gasping kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect gasping\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo bees buzzing ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify buzzing sound\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo scratching kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect scratching sound\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo reggae hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify reggae music\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo yawning loud kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect yawning\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo cat purring ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify animal sound\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo clearing throat kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect throat clearing\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo disco hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify disco music\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo chewing kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect chewing sound\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo static noise hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify static noise\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo tapping fingers kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect finger tapping\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo soul music hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify soul music\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo shivering kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect shivering sound\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo owl hooting ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify bird sound\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo whispering secret kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect whispering\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo funk music hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify funk music\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo panting kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect panting\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo door creaking ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify door sound\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Audio clip mein jo person hai wo mumbling kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect mumbling\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai ye audio mein jo gaana hai wo folk music hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify folk music\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is recording mein jo person hai wo groaning kar raha?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"detect groaning\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Ye audio mein jo sound hai wo cricket chirping ki hai?",
+    "assistant": "{\"action\":\"audio_recognition\",\"params\":{\"question\":\"identify insect sound\"},\"confidence\":0.97}"
+  }
+]

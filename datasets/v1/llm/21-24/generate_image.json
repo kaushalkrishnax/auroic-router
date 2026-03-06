@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai ek mast dragon ki image bana de jo aag nikal raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"dragon breathing fire\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Generate an image of a futuristic Mumbai in 2077",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"futuristic Mumbai city year 2077 cyberpunk style\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "AI mere liye ek cute billi ki photo banao jo space suit pehni ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute cat wearing a space suit in galaxy\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ek realistic sunset over the mountains create karo",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"realistic sunset over Himalayan mountains\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek astronaut jo horse ride kar raha ho moon pe, aisi image chahiye",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"astronaut riding a horse on the moon surface\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Cyberpunk style mein ek gaming room design kar do",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cyberpunk style gaming room with neon lights\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek lion ki image banao jo crown pehna ho, king vibes",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"majestic lion wearing a golden crown, cinematic lighting\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a 3D render of a luxury villa with a pool",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"3D render luxury villa with swimming pool and garden\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek robot jo chai pi raha ho, aisi photo banao",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"robot drinking tea at a local indian stall\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Generate a portrait of a warrior from ancient India",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"ancient Indian warrior portrait with traditional armor\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek underwater city create karo jisme sharks ghum rahi hon",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"futuristic underwater city with sharks swimming around\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek flying car ki image banao jo cloud ke upar ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"futuristic flying car soaring above white clouds\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a logo for a coffee shop called 'Chai-Fi'",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"minimalist logo design for a coffee shop named Chai-Fi\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ek samurai ki image banao cherry blossom ke neeche",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"samurai standing under cherry blossom trees, Japanese art style\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Generate an oil painting of a rainy street in Paris",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"oil painting of a rainy evening street in Paris with Eiffel tower\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "AI ek super cool sneakers design banao neon colors mein",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"futuristic sneaker design with neon glow and high tech materials\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek forest ki image banao jisme glow karne wale plants hon",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"enchanted forest with bioluminescent glowing plants at night\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a minimalist wallpaper for a smartphone",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"minimalist abstract geometric wallpaper for mobile\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai ek panda jo karate kar raha ho, aisi pic bana do",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"funny panda doing karate in a dojo\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Generate a high-quality image of a black hole in space",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cinematic high resolution black hole in deep space\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ek steampunk style ka watch create karo",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"steampunk style luxury wrist watch with gears\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek ice castle banao jo mountains pe ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"majestic ice castle on top of a snowy mountain peak\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create an anime style character of a hacker",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"anime style male hacker character with hoodies and screens\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek pizza ki image banao jo galaxy se bana ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"surreal image of a pizza made of stars and galaxies\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Generate a 3D isometric view of a small cozy cottage",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"3D isometric cozy cottage in a forest with smoke from chimney\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek iron man suit banao indian colors mein",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"Iron Man suit with Indian flag color scheme\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a fantasy map for a D&D game",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"vintage fantasy world map for roleplaying game\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Ek robot jo sitar baja raha ho, aisi image dikhao",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"futuristic robot playing a sitar, traditional setting\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Generate a cyberpunk cat sitting on a neon sign",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cyberpunk cat on a neon sign in a rainy city\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek flying island banao jisme waterfalls hon",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"floating island in the sky with lush greenery and waterfalls\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Create a scary ghost in a haunted mansion",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"spooky ghost figure in a dark haunted mansion hallway\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ek futuristic football stadium ki image banao",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"futuristic high-tech football stadium with holograms\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek underwater restaurant create karo",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"luxury underwater restaurant with glass walls showing fish\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Generate an image of a viking ship in a storm",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"viking longship sailing through a violent sea storm\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek cute baby elephant jo paint kar raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute baby elephant holding a brush and painting on canvas\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek futuristic bike design banao",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"sleek futuristic motorcycle design with glowing wheels\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Create a portrait of a queen from the Mughal era",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"Mughal queen portrait with intricate jewelry and silk attire\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ek floating city in the clouds create karo",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"magical city floating among white clouds at sunrise\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek dog jo chef ki hat pehna ho, aisi photo",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"funny golden retriever wearing a chef hat in a kitchen\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Generate a synthwave style landscape",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"80s synthwave landscape with purple grid and neon sun\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ek robot jo painting kar raha ho, aisi image",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"humanoid robot painting a masterpiece on canvas\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek futuristic library banao",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"futuristic library with floating books and holographic screens\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create an image of a phoenix rising from ashes",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"majestic phoenix bird rising from golden flames and ashes\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek cute owl jo glasses pehna ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute owl wearing nerdy glasses and reading a book\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek futuristic farm banao robots ke saath",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"high-tech farm with robots harvesting crops\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Generate a watercolor painting of a beach",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"soft watercolor painting of a tropical beach with palm trees\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ek cyberpunk street food stall in Tokyo",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cyberpunk Tokyo street with a glowing ramen stall\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek astronaut jo coffee pi raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"astronaut floating in space drinking coffee from a pouch\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Create a 3D model of a futuristic car",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"high-poly 3D render of a concept supercar\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ek magical sword in a stone create karo",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"glowing magical sword stuck in a stone in an enchanted forest\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek cute robot jo flower de raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"small cute robot holding out a red flower\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Generate a minimalist logo for a tech startup",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"minimalist modern logo for a technology company\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Ek futuristic bedroom with a view of Mars",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"bedroom on a space station with a window looking at Mars\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek lion jo suit pehna ho, boss vibes",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"lion wearing a business suit sitting in a boardroom\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a fantasy dragon egg glowing",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"detailed glowing dragon egg with scales in a nest\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ek futuristic classroom with VR headsets",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"classroom of the future with students using VR headsets\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute penguin jo scarf pehna ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute penguin wearing a red knitted scarf in the snow\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Generate an image of a futuristic bridge",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"massive futuristic suspension bridge with neon lights\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ek cyberpunk style apartment interior",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"messy but cool cyberpunk apartment interior with many screens\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek astronaut jo guitar baja raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"astronaut playing an electric guitar on an asteroid\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Create a realistic portrait of a tiger",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"ultra realistic close-up portrait of a Bengal tiger\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ek futuristic city with flying buses",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"busy futuristic city with flying buses and tall towers\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek cute cat jo pizza kha rahi ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"funny cat eating a slice of pepperoni pizza\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Generate a landscape of an alien planet",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"landscape of an alien planet with purple skies and two moons\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic kitchen with a robot chef",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"modern kitchen with a sleek robot preparing food\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute dog jo space suit pehna ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute dog in an astronaut suit floating in space\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a fantasy forest at night",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"magical fantasy forest at night with glowing mushrooms\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic watch design create karo",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"futuristic holographic wrist watch design\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek cute robot jo dance kar raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"friendly robot doing a disco dance\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Generate a portrait of a wizard",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"old wizard with a long beard and a glowing staff\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic park with holographic trees",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"urban park in the future with holographic trees and benches\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute cat jo gaming kar rahi ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cat with headsets playing games on a laptop\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a realistic image of a black panther",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"realistic black panther in the jungle at night\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ek futuristic office with floating chairs",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"modern office with floating ergonomic chairs and glass walls\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek cute dog jo sunglasses pehna ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cool dog wearing stylish sunglasses on a beach\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Generate a landscape of a desert on Mars",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"red desert landscape on Mars with dust storms\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic bathroom with a smart mirror",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"high-tech bathroom with a digital smart mirror\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek cute robot jo gardening kar raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"small robot watering plants in a garden\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Create a fantasy castle in the sky",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"majestic castle built on a floating cloud\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic gym with holographic trainers",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"gym in the future with holographic personal trainers\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute cat jo skateboard chala rahi ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"funny cat riding a skateboard on a street\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Generate a portrait of a space explorer",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"heroic space explorer in a futuristic suit\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic airport with flying planes",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"busy airport in the future with vertical takeoff planes\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek cute dog jo hat pehna ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute puppy wearing a tiny colorful party hat\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a realistic image of a wolf",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"realistic wolf howling at the full moon\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ek futuristic living room with a holographic TV",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"living room with a giant holographic display\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute robot jo help kar raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"helpful robot carrying groceries for a person\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Generate a landscape of a snowy forest",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"peaceful snowy forest with pine trees and a frozen lake\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic hospital with robot nurses",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"clean futuristic hospital ward with robot assistants\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek cute cat jo sleep kar rahi ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute kitten sleeping on a soft pillow\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a fantasy world with two suns",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"fantasy landscape with two suns in the sky\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic school with digital books",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"modern school classroom with students using tablets\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute dog jo ball se khel raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"happy dog playing with a red ball in a park\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Generate a portrait of a cyberpunk girl",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"portrait of a girl with neon hair and cybernetic implants\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic shop with robot sellers",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"modern store with robot shopkeepers\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek cute cat jo jump kar rahi ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"active cat jumping over a fence\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a realistic image of an eagle",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"realistic eagle soaring in the blue sky\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ek futuristic cafe with holographic menus",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"modern cafe with digital holographic menus on tables\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute robot jo smile kar raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"friendly robot with a digital smiling face\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Generate a landscape of a green valley",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"beautiful green valley with a river and flowers\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic museum with digital art",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"modern museum with interactive digital art displays\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek cute cat jo hat pehni ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute cat wearing a tiny straw hat\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a fantasy dragon flying",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"majestic dragon flying over a mountain range\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic street with neon lights",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"busy futuristic street with glowing neon signs\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute dog jo run kar raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"happy dog running in a field of flowers\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Generate a portrait of a space pilot",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"brave space pilot in a high-tech cockpit\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic house with a smart roof",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"modern house with solar panels and a smart roof\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek cute cat jo sunglasses pehni ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cool cat wearing stylish sunglasses\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a realistic image of a lion",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"realistic lion standing on a rock in the savanna\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ek futuristic city with flying cars",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"busy futuristic city with many flying vehicles\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute robot jo wave kar raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"friendly robot waving its hand\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Generate a landscape of a tropical island",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"beautiful tropical island with white sand and clear water\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic lab with holographic data",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"high-tech lab with digital data floating in the air\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek cute cat jo play kar rahi ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"playful cat chasing a laser dot\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a fantasy world with giant plants",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"fantasy landscape with massive alien plants\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic room with a smart bed",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"modern bedroom with a high-tech smart bed\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute dog jo sleep kar raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute puppy sleeping in a soft bed\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Generate a portrait of a futuristic soldier",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"soldier from the future in advanced armor\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic park with robot pets",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"urban park with people playing with robot dogs\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek cute cat jo sit kar rahi ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"cute cat sitting on a wooden chair\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Create a realistic image of a cheetah",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"realistic cheetah running in the wild\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ek futuristic city with green buildings",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"eco-friendly futuristic city with plants on buildings\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek cute robot jo read kar raha ho",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"small robot reading a physical book\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Generate a landscape of a mountain range",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"majestic mountain range with snow-capped peaks\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek futuristic city with a giant tower",
+    "assistant": "{\"action\":\"generate_image\",\"params\":{\"prompt\":\"massive futuristic city with a central sky-high tower\"},\"confidence\":0.94}"
+  }
+]

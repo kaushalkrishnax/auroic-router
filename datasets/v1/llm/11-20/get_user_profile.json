@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai Virat Kohli ki profile dikhao na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"virat.kohli\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is user ke baare mein info do: @carryminati",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"carryminati\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell me something about @mrbeast profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"mrbeast\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye @flying_beast kaun hai? Details do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"flying_beast\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Isko check karo profile @technicalguruji",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"technicalguruji\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @msdhoni ka bio dikha sakte ho?",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"msdhoni\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Info do iske bare me @elvish_yadav",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"elvish_yadav\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Show me the profile of @cristiano",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"cristiano\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai ye account kiska hai? @zuck",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"zuck\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Details chahiye @ashneer.grover ki",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"ashneer.grover\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @aliaabhatt ki profile info dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"aliaabhatt\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Tell about this user @the_rock",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"the_rock\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai @ranveersingh ki profile info chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"ranveersingh\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Iske bare me batao @selenagomez",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"selenagomez\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @badboyshah ki profile details do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"badboyshah\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Show profile @beyonce",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"beyonce\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @diljitdosanjh ki info dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"diljitdosanjh\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell me about @mumbaikarchikhil",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"mumbaikarchikhil\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @nike ka official profile dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"nike\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Info about @nasa account",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"nasa\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @shakira ki profile details bhej",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"shakira\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Tell about @leomessi profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"leomessi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai @beingsalmankhan ki details do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"beingsalmankhan\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show me info for @iamcardib",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"iamcardib\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @sachintendulkar ki profile info",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"sachintendulkar\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Details of @kyliejenner profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"kyliejenner\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @justinbieber ki info dikhao na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"justinbieber\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @katyperry user",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"katyperry\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @deepikapadukone ki profile details",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"deepikapadukone\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info @taylorswift",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"taylorswift\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai @neeraj_chopra ki profile dikha do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"neeraj_chopra\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Tell me more about @champagnepapi",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"champagnepapi\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @rohitsharma45 ki details chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"rohitsharma45\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show @billieeilish profile info",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"billieeilish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @priyankachopra ki info do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"priyankachopra\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @dualipa account",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"dualipa\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @hardikpandya93 ki profile dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"hardikpandya93\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Details about @kendalljenner",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"kendalljenner\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @iamsrk ki profile info bhej na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"iamsrk\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info for @gigihadid",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"gigihadid\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @klrahul ki details dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"klrahul\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Tell me about @snoopdogg user",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"snoopdogg\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @eminem ki profile info chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"eminem\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Details of @shubmangill",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"shubmangill\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @akshaykumar ki info do na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"akshaykumar\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show profile @ladygaga",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"ladygaga\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @vickykaushal09 ki details dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"vickykaushal09\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Tell about @postmalone account",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"postmalone\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @smriti_mandhana ki profile info",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"smriti_mandhana\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Details for @badgalriri",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"badgalriri\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @hrithikroshan ki profile dikhao na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"hrithikroshan\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info @adele",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"adele\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @rishabpant ki info chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"rishabpant\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Tell about @shawnmendes profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"shawnmendes\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @kartikaaryan ki details do na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"kartikaaryan\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info for @camila_cabello",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"camila_cabello\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @sunilchhetri11 ki profile details",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"sunilchhetri11\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @jlo user",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"jlo\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @saraalikhan95 ki profile info dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"saraalikhan95\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Details for @zayn account",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"zayn\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @yuzi_chahal23 ki details chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"yuzi_chahal23\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Show profile @nickjonas",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"nickjonas\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @kiaraaliaadvani ki info do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"kiaraaliaadvani\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @davidbeckham account",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"davidbeckham\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @jaspritb1 ki profile dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"jaspritb1\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info @mileycyrus",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"mileycyrus\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @varundvn ki details bhej na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"varundvn\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @brunomars user",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"brunomars\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @kuldeep_18 ki profile info",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"kuldeep_18\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Details for @chrishemsworth account",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"chrishemsworth\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @shraddhakapoor ki profile dikhao na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"shraddhakapoor\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info @tomholland2013",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"tomholland2013\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @shikhardofficial ki info chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"shikhardofficial\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @theroyalfamily profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"theroyalfamily\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai @tigerjackieshroff ki details do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"tigerjackieshroff\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show profile @milliebobbybrown",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"milliebobbybrown\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @rashmika_mandanna ki info dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"rashmika_mandanna\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell me more about @vindiesel",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"vindiesel\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @kritisanon ki profile details bhej",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"kritisanon\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info for @zendaya",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"zendaya\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @ravindra.jadeja ki details chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"ravindra.jadeja\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @gal_gadot profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"gal_gadot\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @anushkasharma ki info do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"anushkasharma\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Details for @kevinhart4real account",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"kevinhart4real\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @mohammedshami.official ki profile info",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"mohammedshami.official\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Show profile @jenniferaniston",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"jenniferaniston\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @taapsee ki details dikhao na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"taapsee\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @stephencurry30 profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"stephencurry30\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @ishankishan23 ki info chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"ishankishan23\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info @kourtneykadash",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"kourtneykadash\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @sonamkapoor ki details bhej do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"sonamkapoor\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell me about @kingjames user",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"kingjames\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @axar.patel ki profile details",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"axar.patel\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Show profile for @khloekardashian",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"khloekardashian\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @jacquelinef143 ki info dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"jacquelinef143\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell me more about @conormcgregor",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"conormcgregor\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @shreyas41 ki details chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"shreyas41\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show profile @parineetichopra",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"parineetichopra\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai @theweeknd ki info bhej do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"theweeknd\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Tell about @samsmith user",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"samsmith\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @arrahman ki profile details",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"arrahman\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info @maluma",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"maluma\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @ranbi_r_kapoor ki info chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"ranbi_r_kapoor\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Tell about @badbunnypr profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"badbunnypr\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @suryakumar_yadav ki details do",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"suryakumar_yadav\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show profile @karolg",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"karolg\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @aliaabhatt ki profile info bhej na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"aliaabhatt\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell me about @marshmello profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"marshmello\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @hardikpandya93 ki details dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"hardikpandya93\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info @davidguetta",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"davidguetta\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @priyankachopra ki profile details bhej",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"priyankachopra\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @calvinharris account",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"calvinharris\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @rohitsharma45 ki info chahiye",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"rohitsharma45\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show profile @tiesto",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"tiesto\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @virat.kohli ki details do na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"virat.kohli\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell me about @skrillex profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"skrillex\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @msdhoni ki profile info bhej",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"msdhoni\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Show info @diplo",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"diplo\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @shreyas41 ki profile details dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"shreyas41\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @parineetichopra profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"parineetichopra\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai @theweeknd ki details do na",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"theweeknd\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Show info @samsmith",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"samsmith\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai @arrahman ki profile info bhej",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"arrahman\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tell about @maluma profile",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"maluma\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai @ranbi_r_kapoor ki details dikhao",
+    "assistant": "{\"action\":\"get_user_profile\",\"params\":{\"username\":\"ranbi_r_kapoor\"},\"confidence\":0.92}"
+  }
+]

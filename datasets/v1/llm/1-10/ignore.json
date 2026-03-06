@@ -1,0 +1,502 @@
+[
+  {
+    "user": "😂😂😂",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.99}"
+  },
+  {
+    "user": "ok bro",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "👍",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.98}"
+  },
+  {
+    "user": "hmmm",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "nice",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "achha",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "thik h",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "kk",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.96}"
+  },
+  {
+    "user": "done",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.91}"
+  },
+  {
+    "user": "cool",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.89}"
+  },
+  {
+    "user": "yup",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.93}"
+  },
+  {
+    "user": "kuch nahi",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.87}"
+  },
+  {
+    "user": "bas aise hi",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "bye",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.97}"
+  },
+  {
+    "user": "gn",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "gm",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "yo",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.86}"
+  },
+  {
+    "user": "hey",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "hi",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "helloo",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "lol",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.98}"
+  },
+  {
+    "user": "lmao",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.97}"
+  },
+  {
+    "user": "rofl",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.96}"
+  },
+  {
+    "user": "bruh",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "dude",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "no worries",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.93}"
+  },
+  {
+    "user": "it's okay",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "k",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "okay",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "sure",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "fine",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "understood",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "samajh gaya",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.93}"
+  },
+  {
+    "user": "got it",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.96}"
+  },
+  {
+    "user": "copy that",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "no problem",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "thnx",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "ty",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.96}"
+  },
+  {
+    "user": "shukriya",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.93}"
+  },
+  {
+    "user": "dhanyawad",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "🔥",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.98}"
+  },
+  {
+    "user": "💯",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.99}"
+  },
+  {
+    "user": "✨",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.97}"
+  },
+  {
+    "user": "🙌",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.98}"
+  },
+  {
+    "user": "👏",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.98}"
+  },
+  {
+    "user": "❤️",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.99}"
+  },
+  {
+    "user": "bhadiya",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "mast",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.91}"
+  },
+  {
+    "user": "gazab",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.89}"
+  },
+  {
+    "user": "awesome",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "great",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.91}"
+  },
+  {
+    "user": "perfect",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.93}"
+  },
+  {
+    "user": "wow",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "oops",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "my bad",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "sorry",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "koi baat nahi",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "chalo thik h",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.91}"
+  },
+  {
+    "user": "phir milte h",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "see ya",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.96}"
+  },
+  {
+    "user": "later",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "ttyl",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.97}"
+  },
+  {
+    "user": "brb",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "idk",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "pata nahi",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.89}"
+  },
+  {
+    "user": "maybe",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "shayad",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.86}"
+  },
+  {
+    "user": "yes",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "no",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "haan",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "nahi",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "wahi toh",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "exactly",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "true",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "sahi baat h",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.93}"
+  },
+  {
+    "user": "bilkul",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "of course",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.91}"
+  },
+  {
+    "user": "definitely",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "never mind",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "rehne do",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "jane do",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.93}"
+  },
+  {
+    "user": "whatever",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "jo bhi",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.87}"
+  },
+  {
+    "user": "anyway",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "kuch bhi",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.86}"
+  },
+  {
+    "user": "ohh i see",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "accha aisa h",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "got it boss",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.97}"
+  },
+  {
+    "user": "okay dokay",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.96}"
+  },
+  {
+    "user": "no way",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "woww",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "crazy",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.87}"
+  },
+  {
+    "user": "insane",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "lit",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.91}"
+  },
+  {
+    "user": "op",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "hahaha",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.99}"
+  },
+  {
+    "user": "hehe",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.98}"
+  },
+  {
+    "user": "😂💀",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.99}"
+  },
+  {
+    "user": "🙄",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "🤔",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "🤨",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "🥳",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.97}"
+  },
+  {
+    "user": "😎",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.96}"
+  },
+  {
+    "user": "😴",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "naam batao",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "kaise ho",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "sab thik?",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.86}"
+  },
+  {
+    "user": "aur batao",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.87}"
+  },
+  {
+    "user": "kya haal h",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.86}"
+  },
+  {
+    "user": "wbu",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "hru",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "kya chal raha h",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.85}"
+  },
+  {
+    "user": "nothing much",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "same here",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "me too",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.91}"
+  },
+  {
+    "user": "ditto",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.93}"
+  },
+  {
+    "user": "yup yup",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.95}"
+  },
+  {
+    "user": "nah",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.92}"
+  },
+  {
+    "user": "nope",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.93}"
+  },
+  {
+    "user": "oopsie",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  },
+  {
+    "user": "my bad sorry",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.94}"
+  },
+  {
+    "user": "chill h",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.88}"
+  },
+  {
+    "user": "chill bro",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.89}"
+  },
+  {
+    "user": "relax",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.87}"
+  },
+  {
+    "user": "take it easy",
+    "assistant": "{\"action\":\"ignore\",\"params\":{},\"confidence\":0.9}"
+  }
+]

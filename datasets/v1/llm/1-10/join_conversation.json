@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai kal wala RCB ka match dekha? Kya hi finish tha!",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"IPL cricket match\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ye baarish kab rukegi yaar, office jane ka mann nahi bilkul",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"monsoon laziness\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "React seekhna itna mushkil kyun hai? Hooks samajh hi nahi aa rahe",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"React learning curve\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Gym jane mein alas aa raha hai, par diet bhi toh maintain karni hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"fitness motivation\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Anyone saw the new Marvel trailer? Visuals are insane 🔥",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"Marvel movie trailer\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Yaar ye Bangalore ka traffic dimaag kharab kar deta hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"city traffic issues\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Chai or Coffee? I think chai is emotions ❤️",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"beverage preferences\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Stock market aaj pura red hai, portfolio dekhne ki himmat nahi",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"stock market crash\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Wfh khatam ho raha hai, ab daily travel karna padega 😭",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"return to office\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Kalki 2898 AD ka VFX was actually world class, no cap",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"movie review\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai neend nahi aa rahi, suggest some good horror movies",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"movie recommendations\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "iPhone 16 ka wait karu ya 15 le lu abhi?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"tech purchase advice\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Goa ka plan phir se cancel ho gaya, dosto pe bharosa hi nahi",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"cancelled travel plans\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Mummy bol rahi hai shaadi kar lo, par mujhe career pe focus karna hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"life decisions\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "Biryani with Elaichi is a crime. Period.",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"food debates\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "CSS centering is still the hardest part of web dev lol",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"web development struggles\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Aaj kal ke gaane bilkul bakwas hote hain, 90s was gold",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"music nostalgia\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Valorant pe rank push karni hai, koi squad hai?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"gaming squad\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Maggi is not just food, it's a lifestyle 🍜",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"hostel food culture\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Monday morning blues hitting hard today... coffee help nahi kar rahi",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"work motivation\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai ye AI sabki jobs le lega kya? Darr lag raha hai ab",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"AI impact on jobs\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ladakh trip bike pe karni hai, bucket list item hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"travel bucket list\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Exam ke ek raat pehle padhne ka maza hi alag hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"student life\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Elon Musk is literally out of control on X right now",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"social media trends\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Butter Chicken without bones is just tomato soup change my mind",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"food opinions\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "PyTorch vs TensorFlow... confusion hi confusion hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"machine learning frameworks\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Weekend pe bas sona hai, pura week thak gaya hoon",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"weekend relaxation\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "K-Drama fans are everywhere nowadays, it's a cult lol",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"pop culture\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Ghar ka khana miss kar raha hoon, hostel life is tough",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"homesickness\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Startup culture looks cool but it's actually 14 hours of work",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"startup life\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye crypto ka kya scene hai? Dogecoin upar jayega?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"cryptocurrency\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Delhi ki sardi is better than Mumbai ki garmi",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"weather debate\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "Netflix ka subscription mehenga hota ja raha hai faltu mein",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"streaming services\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Is it worth buying a Kindle or physical books are better?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"reading habits\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "GTA 6 kab aayega? Trailer dekh kar 1 saal ho gaya",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"gaming anticipation\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai weight loss ke liye cardio karu ya weight lifting?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"fitness advice\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Insta reels scrolling is such a time waste but can't stop",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"digital addiction\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Dating apps pe match hi nahi aate, scam hai sab",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"dating struggles\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I think Virat Kohli is the GOAT, sorry Sachin fans",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"cricket legends\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Cold Coffee from Starbucks is overrated, local shops are better",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"brand vs local food\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Remote jobs are the future, office jana is outdated",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"work culture\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye new budget ne toh middle class ki maar li",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"economy and taxes\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Spiderman: No Way Home ka theatre experience was peak cinema",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"movie experiences\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Skin care routine follow karna kitna mehnat ka kaam hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"self care\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Mechanical engineering karke coding ki job kar raha hoon lol",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"career shifts\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Pani puri vs Gol gappa... name doesn't matter, taste does!",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"street food\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "Bhai next month Maldives chalein? Sasta padega",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"vacation planning\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Anyone watching House of the Dragon? Team Green or Black?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"TV show discussion\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Subah 5 baje uthna is impossible for me",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"morning routine\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "MacBook Air M1 is still a beast in 2024",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"laptop performance\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye sneakers ka craze khatam hi nahi hota, 20k for shoes!",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"sneakerhead culture\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Interstellar dekhi aaj, dimaag ghum gaya pura",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"sci-fi movies\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Zomato gold ka fayda hai ya nahi? Delivery charges toh tab bhi lagte hain",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"food delivery apps\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Tinder pe ghosting is so common now, bad manners",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"dating etiquette\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye anime fans itne toxic kyun hote hain?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"anime community\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Mental health is important guys, break le liya karo",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"wellness\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Electric scooters are catching fire, petrol hi sahi hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"EV safety\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai graduation ke baad kya karu? MBA or Job?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"education planning\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Shark Tank India season 3 was a bit boring compared to first one",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"reality TV\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "LinkedIn is becoming the new Instagram with all the fake stories",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"social media critique\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye garmi mein AC ke bina rehna mushkil hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"summer heat\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Should I learn Python or Java for my first job?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"programming languages\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Solo traveling is peaceful but sometimes lonely",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"travel experiences\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye fast fashion environment ke liye bura hai, thrift karo",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"sustainable fashion\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "College fest mein celeb kaun aa raha hai? Pata chala?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"college events\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "I miss the old Orkut and MSN days, simple life thi",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"internet nostalgia\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye game of thrones ka ending was a disaster",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"series finale\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Vegetarian biryani is just Pulao, don't argue",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"food controversy\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai crypto mein sara paisa doob gaya, ab kya karu?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"investment loss\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Smartwatches are just fancy notification machines",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"wearable tech\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "Mummy ka birthday hai, kya gift du? Budget 5k",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"gifting ideas\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye ChatGPT ne meri coding life easy kar di hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"AI tools for dev\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is it okay to quit a high paying job for mental peace?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"career vs health\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye naya iPhone ka color pink kitna ajeeb hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"product design\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Anyone playing Black Myth Wukong? Graphics are next level",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"new game release\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye recession kab khatam hoga? Job market bahut tight hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"job market economy\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Podcast sunne ka shauk hai kisi ko? Suggest some good ones",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"podcast recommendations\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ye flights itni mehengi kyun ho gayi hain?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"travel costs\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Ludo King is the reason for many broken friendships haha",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"casual gaming\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai ye startup founders itna flex kyun karte hain?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"startup culture\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Anyone watching the Olympics? Neeraj Chopra is a legend",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"sports events\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye new car leni hai, SUV or Sedan? Confusion hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"automobile advice\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "I think work life balance exists only in LinkedIn posts",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"corporate reality\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye 5G ki speed toh 4G jaisi hi aa rahi hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"telecom issues\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Anyone up for a late night drive? Mausam mast hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"night outings\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai ye credit card ke reward points redeem kaise hote hain?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"fintech help\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "I think reading on a screen is not as satisfying as paper",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"reading preferences\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "Bhai ye anime ka naya episode kab aayega?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"anime schedule\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is it worth learning C++ for game dev in 2024?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"career advice in tech\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye ghar ka rent har saal itna kyun badh jata hai?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"real estate issues\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Anyone using a mechanical keyboard? Is it worth the hype?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"tech accessories\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye hair fall ka koi solution batao, ganja ho raha hoon",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"health and grooming\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I think the office coffee is actually poison",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"office life\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Bhai ye naya PS5 pro ka price dekha? Too expensive",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"gaming consoles\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Anyone interested in a weekend trek near Pune?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"adventure activities\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye mutual funds sahi mein sahi hai kya?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"financial planning\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "I think the 1975 band is underrated in India",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"music taste\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "Bhai ye coding interviews mein DSA kyun puchte hain?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"tech interviews\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is it better to stay in a hostel or flat during college?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"student accommodation\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ye naya web series 'Panchayat' jaisa kuch suggest karo",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"content recommendations\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Anyone else feels that 2024 is moving too fast?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"life reflections\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai ye laptop garam ho raha hai bahut, kya karu?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"hardware issues\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I think remote work makes people lonely after a while",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"workplace psychology\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye gym mein log video kyun banate rehte hain?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"gym etiquette\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Anyone following the US elections? It's a total circus",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"global politics\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye naya restaurant try kiya? Review toh ache hain",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"food exploration\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "Is it worth upgrading to a 4K monitor for coding?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"developer setup\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye electric cars ka future kya hai India mein?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"future of transport\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Anyone up for a game of chess online?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"online games\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai ye naya phone ka camera is better than DSLR now",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"mobile photography\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "I think the rainy season is the best for long drives",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"travel preferences\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai ye coding bootcamps worth it hote hain kya?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"education and tech\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Anyone else missing the 2010s Bollywood music?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"nostalgia\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ye naya smart fan kaisa rahega? Alexa se chalta hai",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"smart home tech\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Is it possible to learn data science in 6 months?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"career goals\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye hotel prices itne high kyun hain weekend pe?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"travel planning\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Anyone watching the new season of Mirzapur?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"web series discussion\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye AI generated art is actually pretty cool",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"AI and creativity\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "I think morning walks are better than evening gym",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"fitness habits\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "Bhai ye naya game ka system requirements bahut high hain",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"PC gaming\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Anyone here into photography? Need some tips for night shots",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"hobbies and skills\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ye naya tax slab samajh hi nahi aa raha",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"finance and taxes\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is it better to buy a second hand car or new one for first time?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"car buying advice\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye naya coffee shop ka cold brew is amazing",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"local food reviews\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Anyone else feels that social media is getting too toxic?",
+    "assistant": "{\"action\":\"join_conversation\",\"params\":{\"topic\":\"digital well-being\"},\"confidence\":0.97}"
+  }
+]

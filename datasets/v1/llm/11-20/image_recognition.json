@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai ye photo mein kya hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"what is this\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is image mein kya dikh raha hai tumko?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"describe image\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye kya cheez hai? Pehchano",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify object\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "What is written in this picture?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"read text in image\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai is pic mein kaun hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify person\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Tell me what's happening in this photo",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"describe scene\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Ye kahan ki photo hai? Any idea?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify location\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is image mein kitne log hain count karo",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"count people\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ye konsi car hai photo mein?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify car model\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Can you see the dog in this pic?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"find dog\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai iska price kya hoga jo photo mein hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify product and estimate price\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Photo mein color kaunsa hai background ka?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"background color\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ye screenshot mein kya error aa raha hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"analyze error message\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Isme kya likha hai? Hindi mein batao",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"translate text in image\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ye bird ka naam kya hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify bird\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai photo clear nahi hai, par kya dikh raha hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"analyze blurry image\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Is dress ka color kya hai? Confusion hai",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify color\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye konsa brand hai? Logo dekho",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify brand logo\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Photo mein jo khaana hai uska naam batao",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify food dish\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is image mein kuch ajeeb dikh raha hai kya?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect anomalies\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Ye plant konsa hai? Ghar pe lagana hai",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify plant\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Photo mein time kya ho raha hai? Ghadi dekho",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"read time from clock\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Is pic mein main kaisa lag raha hoon?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"rate appearance\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Ye konsi movie ka scene hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify movie scene\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Photo mein jo building hai wo kahan hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify landmark\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye asli hai ya fake? Photo dekho",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"verify authenticity\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Is image mein text copy kar do",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"ocr text extraction\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ye konsa animal hai? Junglee lag raha",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify animal\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Photo mein mausam kaisa hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"describe weather in photo\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is image mein jo ladki hai usne kya pehna hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"describe outfit\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ye coin konsi country ka hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify currency\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai is photo mein lighting kaisi hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"analyze lighting\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Photo mein jo QR code hai wo scan ho sakta hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"read qr code\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is image mein total kitne fruits hain?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"count objects\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ye konsi bhasha mein likha hai image pe?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify language in image\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Photo mein jo instrument hai wo kya hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify musical instrument\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai is pic ka resolution kya hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"check image quality\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Is image mein jo cake hai wo kaisa hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"describe cake\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Ye photo real hai ya AI generated?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect ai generation\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Photo mein jo shoe hai uska size kya lag raha?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"estimate shoe size\"},\"confidence\":0.85}"
+  },
+  {
+    "user": "Is image mein koi watermark hai kya?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect watermark\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ye konsa flower hai? Red wala",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify flower\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Photo mein jo laptop hai wo Apple ka hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify laptop brand\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is image mein jo sky hai wo blue kyun nahi hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"analyze sky color\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Ye photo mein jo map hai wo kahan ka hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify map location\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is pic mein jo mobile hai wo konsa model hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify phone model\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Photo mein jo painting hai wo kisne banayi?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify artist\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Is image mein koi hidden message hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"find hidden details\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Ye photo mein jo bottle hai usme kya hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify liquid in bottle\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Is pic mein jo sign board hai wo kya keh raha?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"read sign board\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Photo mein jo furniture hai wo wood ka hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify material\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is image mein jo dog hai wo konsi breed ka hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify dog breed\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ye photo mein jo mountain hai wo Everest hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify mountain\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Is pic mein jo baby hai wo ro raha hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"analyze emotion\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Photo mein jo car ka number plate hai wo kya hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"read license plate\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Is image mein jo sun hai wo set ho raha hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect sunset or sunrise\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ye photo mein jo tree hai wo mango tree hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify tree type\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Is pic mein jo watch hai wo analog hai ya digital?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify watch type\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Photo mein jo bridge hai uska naam kya hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify bridge\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is image mein jo road hai wo kahan ja rahi?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"describe road path\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Ye photo mein jo bike hai wo Bullet hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify bike model\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is pic mein jo sky hai usme stars dikh rahe?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect stars\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Photo mein jo bag hai wo leather ka hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify bag material\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is image mein jo person hai usne glasses pehne hain?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect glasses\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo fish hai uska naam kya hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify fish species\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is pic mein jo house hai wo kitne floor ka hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"count floors\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Photo mein jo ocean hai uska color green kyun hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"analyze water color\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Is image mein jo plane hai wo konsi airline ka hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify airline\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ye photo mein jo guitar hai wo electric hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify guitar type\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is pic mein jo desert hai wo Sahara hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify desert\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Photo mein jo fruit hai wo apple hai ya peach?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify fruit\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is image mein jo moon hai wo full moon hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify moon phase\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ye photo mein jo statue hai wo kiski hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify statue person\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is pic mein jo forest hai wo dense hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"describe forest density\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Photo mein jo car hai uska color metallic hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"analyze car paint\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Is image mein jo sky hai usme clouds hain?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect clouds\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo bird hai wo ud rahi hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect bird action\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is pic mein jo person hai wo smile kar raha?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect smile\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Photo mein jo bike hai uska tire puncture hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect flat tire\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Is image mein jo house hai uska gate open hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect open gate\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ye photo mein jo ocean hai usme ship dikh rahi?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect ship\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is pic mein jo tree hai usme fruits hain?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect fruits on tree\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Photo mein jo car hai wo fast chal rahi hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"estimate car speed\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Is image mein jo person hai usne hat pehni hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect hat\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo sky hai usme rainbow hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect rainbow\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is pic mein jo dog hai wo sleep kar raha?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect sleeping dog\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Photo mein jo building hai wo glass ki hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify building material\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Is image mein jo road hai wo wet hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect wet road\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo bird hai wo green color ki hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify bird color\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is pic mein jo person hai wo phone use kar raha?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect phone usage\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Photo mein jo car hai uska door open hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect open car door\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is image mein jo house hai wo purana hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"estimate house age\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Ye photo mein jo ocean hai usme surfers hain?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect surfers\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is pic mein jo tree hai wo dry hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect dry tree\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Photo mein jo car hai wo electric lag rahi?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect electric car\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Is image mein jo person hai usne jacket pehni hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect jacket\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo sky hai usme moon dikh raha?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect moon\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is pic mein jo dog hai wo bark kar raha?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect barking dog\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Photo mein jo building hai wo kitni tall hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"estimate building height\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Is image mein jo road hai usme traffic hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect traffic\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo bird hai uska ghosla dikh raha?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect bird nest\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is pic mein jo person hai wo running kar raha?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect running person\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Photo mein jo car hai wo luxury hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect luxury car\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is image mein jo house hai uska color white hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify house color\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo ocean hai usme waves high hain?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"analyze wave height\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Is pic mein jo tree hai wo tall hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"estimate tree height\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Photo mein jo car hai wo parked hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect parked car\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is image mein jo person hai usne bag carry kiya hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect bag\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo sky hai usme birds ud rahe?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect flying birds\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is pic mein jo dog hai wo small hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"estimate dog size\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Photo mein jo building hai wo modern hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect modern architecture\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is image mein jo road hai wo empty hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect empty road\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo bird hai wo baithi hui hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect sitting bird\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is pic mein jo person hai wo khada hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect standing person\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Photo mein jo car hai wo white color ki hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify car color\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is image mein jo house hai wo garden ke saath hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect garden\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo ocean hai usme boat dikh rahi?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect boat\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is pic mein jo tree hai wo green hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect green tree\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Photo mein jo car hai wo moving hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect moving car\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Is image mein jo person hai usne shirt pehni hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect shirt\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo sky hai wo clear hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect clear sky\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is pic mein jo dog hai wo black color ka hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify dog color\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Photo mein jo building hai wo brick ki hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"identify building material\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is image mein jo road hai wo straight hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"detect straight road\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye photo mein jo bird hai wo small hai?",
+    "assistant": "{\"action\":\"image_recognition\",\"params\":{\"question\":\"estimate bird size\"},\"confidence\":0.95}"
+  }
+]

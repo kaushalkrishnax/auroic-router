@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai meri photo ke liye ek kkadak caption likh de",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Instagram bio bana do, thoda attitude wala chahiye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ek romantic poem likho apni girlfriend ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"poem\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Office se leave leni hai, ek professional message draft kar do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message draft\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai dost ki shaadi hai, ek badhiya sa wish likh de",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"wedding wish\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Mere YouTube channel ke liye description likh do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"description\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Shayari sunao na koi dukh bhari",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"shayari\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek formal email likho boss ko resignation ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"email\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai gym photo ke liye motivational caption chahiye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Apne bare mein ek short intro likh do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"intro\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ek story likho horror wali, short honi chahiye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"story\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "LinkedIn ke liye ek post draft kar do about new job",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"linkedin post\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Mummy ke birthday ke liye ek pyara sa message likho",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"birthday message\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek joke sunao mast wala",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"joke\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Twitter ke liye ek thread likho on AI future",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"twitter thread\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ek rap song ke lyrics likho desi style mein",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"lyrics\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai travel vlog ke liye script likh de",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"script\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Apne brand ke liye ek catchy slogan banao",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"slogan\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek breakup message draft kar do, thoda polite",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message draft\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Good morning message likho group ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek speech likh do school farewell ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"speech\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Thread likho top 5 coding languages pe",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"content creation\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek funny bio banao Tinder ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Resume ke liye summary likh do as a fresher",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"resume summary\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek kkadak reply draft kar do hater ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"reply draft\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Is topic pe ek article likho: Benefits of meditation",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"article\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai mere startup ke liye ek elevator pitch likh de",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"pitch\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ek song ka mukhda likho romantic wala",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"lyrics\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ek invitation message likho housewarming party ka",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"invitation\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bio likh do 'Traveler and Foodie' vibes wali",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek apology letter likh do teacher ko",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"letter\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Caption for beach photo bhej do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek motivational quote likho hard work pe",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"quote\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Wedding anniversary wish likh do parents ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"wish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek catchy headline banao blog post ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"headline\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Product description likh do ek wireless headphone ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"description\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek thank you note likh do interview ke baad",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"note\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Caption for sunset photo bhej de bhai",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek short script likho funny reel ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"script\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Professional bio likh do LinkedIn ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek shayari sunao dosti pe",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"shayari\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Caption for my new car pic bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek email draft kar do refund request ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"email\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Write a short story about a time traveler",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"story\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek farewell message likh do colleague ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Caption for birthday selfie likh de",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek formal letter likh do society chairman ko",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"letter\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Write a review for a movie I just watched",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"review\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ek catchy name suggest karo naye business ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"naming\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Caption for traditional wear photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek roast likho mere dost pe, light wala",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"roast\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Write a mission statement for my non-profit",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"writing\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ek message draft kar do party cancel karne ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message draft\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Caption for a candid photo bhej de",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek poem likho nature pe in Hindi",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"poem\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write a product launch email for subscribers",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"email\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai ek short intro likho mere portfolio ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"intro\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Caption for a workout video bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek joke sunao on office life",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"joke\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Write a blog post intro about solo traveling",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"writing\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek birthday wish likho mere boss ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"wish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Caption for a food photo bhej de bhai",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek formal complaint email draft kar do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"email\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Write a short bio for a gaming profile",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek shayari sunao on rain",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"shayari\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Caption for a mirror selfie bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek invitation message for a webinar likh do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Write a script for a 30-second ad",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"script\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek motivational message likho for students",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Caption for a graduation photo bhej de",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek formal invitation letter likh do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"letter\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write a short story about a lost cat",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"story\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek shayari sunao on life",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"shayari\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Caption for a family photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek professional auto-reply message likh do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Write a poem about a rainy day",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"poem\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek funny caption for a failed attempt bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Write an intro for a podcast episode",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"writing\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek congratulatory message likh do promotion pe",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Caption for a nature walk photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek formal request letter for a meeting",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"letter\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write a short bio for a music artist",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek shayari sunao on love",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"shayari\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Caption for a coffee date photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek professional summary for a LinkedIn profile",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"summary\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write a short story about a magical forest",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"story\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek funny caption for a lazy Sunday bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write an intro for a YouTube vlog",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"intro\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek birthday wish likho mere best friend ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"wish\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Caption for a gym transformation photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek formal email draft kar do for a job application",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"email\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Write a short bio for a travel blogger",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek shayari sunao on loneliness",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"shayari\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Caption for a night out photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek professional cover letter draft kar do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"letter\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write a short story about a robot with feelings",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"story\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek funny caption for a food coma bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write an intro for a tech review video",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"intro\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek congratulatory message likh do graduation pe",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Caption for a throwback photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek formal request for information email",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"email\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write a short bio for a fashion influencer",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek shayari sunao on hope",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"shayari\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Caption for a beach sunset photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek professional networking message draft kar do",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write a short story about a haunted house",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"story\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek funny caption for a morning coffee bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write an intro for a cooking show",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"intro\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek birthday wish likho mere dad ke liye",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"wish\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Caption for a mountain view photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek formal follow-up email after an interview",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"email\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Write a short bio for a fitness coach",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek shayari sunao on success",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"shayari\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Caption for a rainy day photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek professional bio for a freelancer",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write a short story about a secret garden",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"story\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ek funny caption for a weekend getaway bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Write an intro for a travel documentary",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"intro\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek congratulatory message likh do wedding pe",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"message\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Caption for a city lights photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek formal invitation email for a corporate event",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"email\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Write a short bio for a food critic",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"bio\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek shayari sunao on memories",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"shayari\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Caption for a road trip photo bhej",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"caption\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ek professional summary for a resume",
+    "assistant": "{\"action\":\"generate_text\",\"params\":{\"task\":\"summary\"},\"confidence\":0.98}"
+  }
+]

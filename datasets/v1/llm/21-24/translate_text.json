@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai isko English mein translate kar do",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate this to Hindi: 'How are you doing today?'",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska matlab kya hai? 'Je ne sais quoi'",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi/english\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ye pura message Hindi mein likh do",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Convert this into English please",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hinglish mein kar do na",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hinglish\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "What does this mean in Hindi?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Isko Spanish mein kya bolte hain?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"spanish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Hindi to English translate karo",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai French mein 'I love you' kaise bolenge?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"french\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ye sentence English mein bolo",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Punjabi mein convert kar sakte ho?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"punjabi\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Translate into Hindi: 'I am very tired'",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Japanese mein 'Hello' kaise likhte hain?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"japanese\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai iska meaning batao English mein",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "German translate kar do is message ko",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"german\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Hinglish to pure Hindi conversion chahiye",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Translate this to Russian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"russian\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai 'Dhanyawad' ko English mein kya kehte hain?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Italian translation bhej do iska",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"italian\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "English mein likh ke dikhao ye",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai Korean mein 'Thank you' kaise bolte hain?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"korean\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Arabic mein translate kar do",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"arabic\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai iska Hindi anuvad karo",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate to Portuguese",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"portuguese\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai isko English mein samjhao",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Translate this caption to Hindi",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai 'Kaisa chal raha hai' in English?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Convert to Chinese (Simplified)",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"chinese\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai isko Bengali mein translate kar de",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"bengali\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Translate this to Malayalam",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"malayalam\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai 'Where are you' ko Hindi mein bolo",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate to Turkish",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"turkish\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai isko English mein convert karo fast",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "What is 'Water' called in Tamil?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"tamil\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai isko Marathi mein translate kar do",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"marathi\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate this quote to Hindi",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'I am coming' in Spanish?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"spanish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Gujarati",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"gujarati\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai isko English mein translate kar do na please",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "What is the meaning of 'Ephemeral' in Hindi?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai isko Urdu mein translate kar de",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"urdu\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Translate this message to Telugu",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"telugu\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai 'Good Night' in Japanese?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"japanese\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Kannada",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"kannada\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai isko English mein likho",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Sun' called in French?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"french\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein translate kar do fast",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Dutch",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"dutch\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai 'I am hungry' in German?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"german\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Swedish",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"swedish\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai isko English mein convert kar do",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Friend' in Russian?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"russian\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein likh de na",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Greek",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"greek\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai 'Happy Birthday' in Italian?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"italian\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Polish",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"polish\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai isko English mein translate kar do please",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Moon' in Portuguese?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"portuguese\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein translate kar de",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Hebrew",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hebrew\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai 'I love coffee' in Arabic?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"arabic\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Indonesian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"indonesian\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai isko English mein convert karo",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Book' in Japanese?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"japanese\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein likh do",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Thai",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"thai\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai 'Beautiful' in Korean?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"korean\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Vietnamese",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"vietnamese\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai isko English mein translate kar do",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Music' in Spanish?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"spanish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein translate kar de fast",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Czech",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"czech\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai 'I am happy' in French?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"french\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Hungarian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hungarian\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai isko English mein convert kar do na",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Life' in German?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"german\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein likh de",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Romanian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"romanian\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai 'Thank you' in Turkish?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"turkish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Danish",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"danish\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai isko English mein translate karo fast",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Star' in Italian?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"italian\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein translate kar do",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Finnish",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"finnish\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai 'I am lost' in Russian?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"russian\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Norwegian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"norwegian\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai isko English mein convert kar do please",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Love' in Arabic?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"arabic\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein translate kar de fast",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Slovak",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"slovak\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai 'Good Morning' in Spanish?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"spanish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Bulgarian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"bulgarian\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Bhai isko English mein translate kar do na",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Peace' in Hebrew?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hebrew\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein likh do please",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Croatian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"croatian\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai 'I am coming' in Greek?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"greek\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Lithuanian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"lithuanian\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Bhai isko English mein convert karo fast",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Dream' in Portuguese?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"portuguese\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein translate kar do please",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Estonian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"estonian\"},\"confidence\":0.85}"
+  },
+  {
+    "user": "Bhai 'I am happy' in Turkish?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"turkish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Latvian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"latvian\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Bhai isko English mein translate kar do na",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Fire' in Russian?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"russian\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein likh de na please",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Slovenian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"slovenian\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Bhai 'Good Luck' in Japanese?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"japanese\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Serbian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"serbian\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai isko English mein convert kar do fast",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Ocean' in French?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"french\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein translate kar do please",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Ukrainian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"ukrainian\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai 'I am safe' in Arabic?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"arabic\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Malay",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"malay\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai isko English mein translate kar do na",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Time' in Spanish?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"spanish\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai isko Hindi mein likh do na fast",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"hindi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Translate this to Persian",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"persian\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai 'I am home' in German?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"german\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Translate to Bengali",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"bengali\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai isko English mein convert kar do please",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"english\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "What is 'Light' in Italian?",
+    "assistant": "{\"action\":\"translate_text\",\"params\":{\"target_language\":\"italian\"},\"confidence\":0.98}"
+  }
+]

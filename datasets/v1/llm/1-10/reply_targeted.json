@@ -1,0 +1,502 @@
+[
+  {
+    "user": "@auroic suno na ek baat",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "tu bata auroic kya scene hai",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "@auroic explain quantum physics simply",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic answer me now",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"urgent\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "bot suggest some songs",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "kya re auroic kaisa hai",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "@auroic help me with this math problem",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "tu hi bata de auroic ab kya kare",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "auroic please tell me a story",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"storytelling\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "oye bot sunn",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "@auroic are you there?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic bhai ek joke sunao",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"funny\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "bot answer this question",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"direct\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "auroic tell me about yourself",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "@auroic what's the weather like?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "tu pagal hai kya auroic?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"witty\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "auroic sun na bore ho raha hu",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "hey bot can you translate this?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "@auroic you are so smart",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"grateful\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic help chahiye yaar",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "bot tell me the time",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "auroic tune khana khaya?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "@auroic what is your name?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic suggest me a movie",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "tu bata auroic main kya pehnu?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.9}"
+  },
+  {
+    "user": "auroic don't ignore me",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "@auroic write a poem",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"creative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "bot give me some motivation",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"motivational\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "auroic are you a human?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "@auroic thank you so much",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"grateful\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic meri help karoge?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "bot you are useless",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"polite\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "auroic do you like music?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "@auroic please reply",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic suno na please",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "bot what is 2+2?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic tu kaha rehta hai?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "@auroic i love you",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "auroic can you keep a secret?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"mysterious\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "bot tell me a fact",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic kya tum mere dost ho?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "@auroic what is your age?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "auroic suggest me a restaurant",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "bot you are awesome",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"enthusiastic\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic help me with my homework",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "@auroic how are you today?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic do you speak hindi?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "bot can you sing?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"witty\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "auroic tune kyu kiya aisa?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "@auroic goodbye",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic see you later",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "bot you are my best friend",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic tell me a riddle",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"playful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "@auroic i'm sad help me",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic kya tum so rahe ho?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "bot give me a recipe",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic do you have a family?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "@auroic you are the best",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"grateful\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic tell me something new",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "bot are you real?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"philosophical\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "auroic suggest a gift for mom",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "@auroic what's up?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic do you know me?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "bot explain ai",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic why are you so slow?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"polite\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "@auroic you are funny",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"enthusiastic\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic tell me about space",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "bot what's your favorite color?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "auroic help me with a caption",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"creative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "@auroic is it going to rain?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "auroic do you eat?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"witty\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "bot can you dance?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"playful\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "auroic tell me a secret",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"mysterious\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "@auroic i am bored",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic what should i eat?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "bot do you have feelings?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"philosophical\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "auroic tell me a ghost story",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"storytelling\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "@auroic wake up",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"playful\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "auroic suggest a workout",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "bot are you a boy?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "auroic help me with my life",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "@auroic you are cool",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic tell me a quote",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"motivational\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "bot what is your purpose?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "auroic do you like humans?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "@auroic i'm back",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic tell me a fun fact",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "bot you are smart",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"grateful\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic help me with a name",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "@auroic what's the news?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "auroic do you have friends?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "bot tell me about india",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic you are helpful",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"grateful\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "@auroic i'm happy",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"enthusiastic\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic tell me about space exploration",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "bot suggest a travel destination",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic do you have a brain?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"witty\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "@auroic i'm tired",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic tell me a bedtime story",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"storytelling\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "bot what's your favorite food?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"playful\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "auroic help me with a message",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "@auroic i'm excited",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"enthusiastic\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic do you sleep?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"casual\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "bot tell me about the world",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic you are great",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"grateful\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "@auroic i'm lonely",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"empathetic\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic tell me a joke",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"funny\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "bot what's your mission?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "auroic do you have a pet?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "@auroic i'm lost",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic tell me a funny story",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"funny\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "bot what's your favorite book?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "auroic help me with a problem",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "@auroic i'm curious",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic do you like games?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "bot tell me about science",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic you are amazing",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"grateful\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "@auroic i'm here",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic tell me about history",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"informative\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "bot suggest a hobby",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "auroic do you have a dream?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"philosophical\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "@auroic i'm proud of you",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"grateful\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "auroic tell me a poem",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"creative\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "bot what's your favorite song?",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"friendly\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "auroic help me with a task",
+    "assistant": "{\"action\":\"reply_targeted\",\"params\":{\"tone\":\"helpful\"},\"confidence\":0.98}"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai koi mast sticker bhej na",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"cool\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so happy today! 🎉",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"happy\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Gussa aa raha hai bahut ganda wala 😡",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"angry\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Good night bro, ek pyara sa sticker bhej do",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"good night\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Lol ye kya tha 😂 sticker bhej ispe",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"laughing\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai neend aa rahi hai bahut zor se",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"sleepy\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Love you bhai! ❤️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"love\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ye toh bahut sad news hai yaar 😭",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"sad\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Party kab hai? Sticker bhej ke batao",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"party\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai main thak gaya hoon kaam karke",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"tired\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Hungry af... kuch khane ka sticker bhej",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"hungry\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Shocking news bhai! 😱",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"shocked\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "All the best for exams!",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"good luck\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai tu toh hero lag raha hai aaj",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"thumbs up\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Miss you yaar, kab milenge?",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"miss you\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Congrats on the new car! 🚗",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"celebration\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai bore ho raha hoon, koi funny sticker bhej",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"funny\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Kya chal raha hai? Sticker bhej",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"greeting\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai darr lag raha hai horror movie dekh ke",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"scared\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "So proud of you bro! 👏",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"applause\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh cheating hai! 😤",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"annoyed\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Chai peene chalein? ☕",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"tea\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai main confuse hoon kya karu",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"confused\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Thank you so much bhai!",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"thank you\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai main nikal raha hoon, bye",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"bye\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Aaj mausam mast hai ☁️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"weather\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai ye toh magic ho gaya ✨",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"magic\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Gym mode on! 💪",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"gym\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai main late ho gaya sorry",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"sorry\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Let's goooooo! 🔥",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"excited\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai meri help kar de please",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"please\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Thinking about life... 🤔",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"thinking\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu mera bhai hai! 🤜🤛",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"friendship\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Weekend vibes baby!",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"weekend\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai wo wali ladki kitni sundar hai 😍",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"heart eyes\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Study time, do not disturb",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"studying\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye joke bahut purana hai 🙄",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"eye roll\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Money hi money hoga 🤑",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"rich\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai main bimar hoon aaj 🤒",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"sick\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Coffee lover forever ☕",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"coffee\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai ye toh epic fail tha",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"facepalm\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Traveling to Delhi ✈️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"travel\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai shanti chahiye bas 🧘‍♂️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"peace\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Cricket match dekhte hain chalo 🏏",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"cricket\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai bahut thand hai aaj ❄️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"cold\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Pizza party tonight! 🍕",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"pizza\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai tu toh genius hai 🧠",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"smart\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "I am feeling blessed 🙏",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"blessed\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh out of syllabus tha",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"surprised\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Happy Birthday mere bhai! 🎂",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"birthday\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai ye gaana loop pe chal raha hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"music\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Main toh loot gaya bhai 💸",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"broke\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu tension mat le, main hoon na",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"support\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Work from home is so boring",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"work\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai ye toh aag laga di tune 🔥",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"lit\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ready for the wedding! 🕺",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"dance\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai main so raha hoon, disturb mat karna",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"sleeping\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "I need a vacation 🏖️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"vacation\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye toh sasta nasha hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"funny\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Victory is ours! ✌️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"victory\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh scary lag raha hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"scary\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "I am so proud of our team",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"teamwork\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu toh champion hai 🏆",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"champion\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Feeling low today... 😔",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"low vibes\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh kamaal ho gaya",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"amazing\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I love my family ❤️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"family\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai tu mere liye sab kuch hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"brotherhood\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Let's celebrate the win! 🍾",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"celebration\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye toh hadd ho gayi 😠",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"angry\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "I am so excited for the trip!",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"excited\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai tu toh legend hai 🙌",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"legend\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Feeling fresh after shower 🚿",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"fresh\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye toh dhoka hai 💔",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"betrayal\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "I am on my way 🏃‍♂️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"running\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai tu toh aag hai 🔥",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"fire\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Feeling lazy on a Sunday",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"lazy\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai ye toh magic hai ✨",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"magic\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "I am so happy for you!",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"happy\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai tu toh superstar hai 🌟",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"superstar\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Feeling hungry, let's eat 🍔",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"hungry\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh amazing news hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"amazing\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am feeling so tired today",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"tired\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu toh hero hai 🦸‍♂️",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"hero\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Feeling so blessed and grateful",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"grateful\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh kamaal ka idea hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"great idea\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so proud of myself",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"proud\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu toh genius hai 🧠",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"genius\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Feeling so happy and positive",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"positive\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh super cool hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"super cool\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so excited for the future!",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"excited\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai tu toh rockstar hai 🎸",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"rockstar\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Feeling so fresh and energetic",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"energetic\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh mind blowing hai 🤯",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"mind blowing\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so happy with my life",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"happy\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu toh champ hai 🥇",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"champ\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Feeling so calm and peaceful",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"calm\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh fantastic news hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"fantastic\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so proud of my brother",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"proud\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu toh star hai ⭐",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"star\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Feeling so happy and loved",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"loved\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh wonderful hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"wonderful\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so excited for the party!",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"party\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai tu toh boss hai 😎",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"boss\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Feeling so fresh and happy",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"fresh\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh awesome hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"awesome\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so happy for our family",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"happy\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu toh king hai 👑",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"king\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Feeling so blessed today",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"blessed\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh super duper hit hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"super hit\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so excited for the weekend!",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"weekend\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai tu toh legend hai 🙌",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"legend\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Feeling so fresh and cool",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"cool\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh mind blowing news hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"mind blowing\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so happy with my work",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"happy\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu toh pro hai 🎮",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"pro\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Feeling so calm and happy",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"calm\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh brilliant idea hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"brilliant\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so proud of my team's win",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"proud\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai tu toh gem hai 💎",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"gem\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Feeling so happy and blessed today",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"blessed\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh incredible hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"incredible\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "I am so excited for the concert!",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"concert\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai tu toh master hai 🎓",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"master\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Feeling so fresh and energetic today",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"energetic\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye toh phenomenal hai",
+    "assistant": "{\"action\":\"send_sticker\",\"params\":{\"query\":\"phenomenal\"},\"confidence\":0.98}"
+  }
+]

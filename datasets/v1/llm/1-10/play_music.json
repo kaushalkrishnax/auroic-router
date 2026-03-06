@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai Arijit Singh ka koi mast gana chala",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Arijit Singh top hits\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Mood off hai, koi party song play kar de",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"party songs\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Tum Hi Ho' right now",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Tum Hi Ho\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Gym ke liye koi heavy bass wala track lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"heavy bass gym music\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai Sidhu Moose Wala ka '295' bajao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"295 Sidhu Moose Wala\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Study karni hai, lo-fi beats chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"lo-fi beats for study\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Diljit Dosanjh ke naye gane sunao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Diljit Dosanjh latest songs\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Can you play some Taylor Swift?",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Taylor Swift\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Old school Bollywood vibes chahiye, Kishore Kumar play kar",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Kishore Kumar hits\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai wo 'Animal' movie ka BGM chala na",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Animal movie BGM\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Rainy day hai, romantic songs ki playlist laga",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"romantic rainy songs\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play 'Starboy' by The Weeknd",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Starboy The Weeknd\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Koi bhajan chala do subah ka time hai",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"morning bhajan\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai 'Pasoori' wala gana sunna hai",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Pasoori\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Punjabi hits play karo",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Punjabi hits\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Badshah ka naya rap chala",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Badshah latest rap\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play some Coke Studio Pakistan tracks",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Coke Studio Pakistan\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai 'Heeriye' gana lagao please",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Heeriye\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Late night drive ke liye songs suggest karke play kar",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"late night drive songs\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "K-pop chalao, BTS ka kuch bhi",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"BTS songs\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Shreya Ghoshal ki awaaz mein kuch sunao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Shreya Ghoshal hits\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai 'Softly' by Karan Aujla bajao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Softly Karan Aujla\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Instrumental music play karo for focus",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"instrumental focus music\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "90s ke pop gane chalao na",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"90s Indian pop\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Believer' by Imagine Dragons",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Believer Imagine Dragons\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Illuminati' gana chala do trend wala",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Illuminati song\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Atif Aslam ke sad songs ki playlist chala",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Atif Aslam sad songs\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play some jazz music for dinner",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"jazz dinner music\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai Honey Singh ka 'Blue Eyes' lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Blue Eyes Honey Singh\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Coding ke liye techno music chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"techno for coding\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play 'Shape of You' by Ed Sheeran",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Shape of You Ed Sheeran\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai King ka 'Tu Aake Dekhle' play kar na",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Tu Aake Dekhle King\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Workout ke liye motivation gane lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"workout motivation songs\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play some retro English hits",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"retro English hits\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai 'Guli Mata' gana chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Guli Mata\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Lata Mangeshkar ke purane gane sunao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Lata Mangeshkar old songs\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Play 'Blinding Lights' by Weeknd",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Blinding Lights\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai koi chill vibes wala gana play kar",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"chill vibes music\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Sufi music chalao, Nusrat Fateh Ali Khan",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Nusrat Fateh Ali Khan hits\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Mockingbird' by Eminem",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Mockingbird Eminem\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai Prateek Kuhad ka koi gana lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Prateek Kuhad songs\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Wedding dance ke liye Bollywood songs chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Bollywood wedding dance songs\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Hymn for the Weekend' by Coldplay",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Coldplay Hymn for the Weekend\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Chorni' bajao Sidhu Moose Wala ka",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Chorni Sidhu Moose Wala\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Meditation ke liye peaceful music chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"peaceful meditation music\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play 'Cheap Thrills' by Sia",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Cheap Thrills Sia\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Zinda Banda' gana chala Jawan movie ka",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Zinda Banda Jawan\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Indie India playlist play karo",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Indian Indie songs\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Perfect' by Ed Sheeran",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Perfect Ed Sheeran\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai koi dhasu rap chalao Raftaar ka",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Raftaar rap hits\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai 'Khalasi' gana lagao trend wala",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Khalasi\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Play 'Peaches' by Justin Bieber",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Peaches Justin Bieber\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Gaming ke liye EDM music chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"gaming EDM\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai 'Kesariya' gana chalao please",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Kesariya\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "90s Govinda hits play kar",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Govinda 90s hits\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Play 'One Love' by Shubh",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"One Love Shubh\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Winning Speech' bajao Karan Aujla ka",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Winning Speech Karan Aujla\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Classical music chalao thoda sukoon ke liye",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Indian classical music\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play 'Flowers' by Miley Cyrus",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Flowers Miley Cyrus\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'O Maahi' gana lagao Dunki movie ka",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"O Maahi Dunki\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhojpuri hits chalao thoda dance karna hai",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Bhojpuri top hits\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Espresso' by Sabrina Carpenter",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Espresso Sabrina Carpenter\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Tauba Tauba' gana chalao Vicky Kaushal wala",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Tauba Tauba Badshah\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Shaadi wala gana lagao koi",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Bollywood wedding songs\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play 'Heat Waves' by Glass Animals",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Heat Waves\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Akhiyaan Gulaab' gana chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Akhiyaan Gulaab\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "South Indian hits play karo thoda",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"South Indian top hits\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Levitating' by Dua Lipa",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Levitating Dua Lipa\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Dil Nu' gana lagao AP Dhillon ka",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Dil Nu AP Dhillon\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Devotional songs play karo morning ke liye",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"morning devotional songs\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Play 'Saiyaan' by Kailash Kher",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Saiyaan Kailash Kher\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Check It Out' bajao Parmish Verma ka",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Check It Out Parmish Verma\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Anime theme songs chalao please",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"anime theme songs\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play 'Millionaire' by Honey Singh",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Millionaire Honey Singh\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Ve Haaniyaan' gana lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Ve Haaniyaan\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Jo Tum Mere Ho' Anuv Jain ka chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Jo Tum Mere Ho Anuv Jain\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Play 'Sajni' from Laapataa Ladies",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Sajni Laapataa Ladies\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Soulmate' Badshah wala gana lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Soulmate Badshah\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Concentration ke liye white noise chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"white noise for concentration\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Play 'Birds of a Feather' by Billie Eilish",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Birds of a Feather Billie Eilish\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Dekhha Tenu' gana chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Dekhha Tenu\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Party ke liye Punjabi dance mix lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Punjabi dance mix\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Play 'Apt' by Rose and Bruno Mars",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Apt Rose Bruno Mars\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Bado Badi' gana chalao mazaak mein",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Bado Badi\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Sufi rock songs play karo",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Sufi rock songs\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Die With A Smile' Lady Gaga",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Die With A Smile\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Husn' Anuv Jain ka bajao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Husn Anuv Jain\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Road trip ke liye Bollywood playlist chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Bollywood road trip playlist\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Not Like Us' Kendrick Lamar",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Not Like Us Kendrick Lamar\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Angaaron' gana chalao Pushpa 2 ka",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Angaaron Pushpa 2\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Sleep ke liye rain sounds chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"rain sounds for sleep\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play 'Fortnight' Taylor Swift",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Fortnight Taylor Swift\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Ishq' Faheem Abdullah wala lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Ishq Faheem Abdullah\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Workout ke liye hardstyle music chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"hardstyle workout\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play 'Beautiful Things' Benson Boone",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Beautiful Things Benson Boone\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Zaalim' Badshah ka chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Zaalim Badshah\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Relaxing piano music play karo",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"relaxing piano\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Lose Control' Teddy Swims",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Lose Control Teddy Swims\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Naina' Crew movie ka gana lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Naina Crew movie\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bollywood lofi mix chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Bollywood lofi mix\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Play 'Houdini' Eminem",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Houdini Eminem\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Manali Trance' bajao party vibes ke liye",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Manali Trance\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ghazals play karo Jagjit Singh ki",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Jagjit Singh ghazals\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Play 'Good Luck Babe' Chappell Roan",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Good Luck Babe\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Chuttamalle' gana chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Chuttamalle\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Millionaire' Honey Singh ka repeat pe chala",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Millionaire Honey Singh\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Play 'Godzilla' Eminem",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Godzilla Eminem\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Tuta Hua Saaz Hoon Main' chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Tuta Hua Saaz Hoon Main\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Deep house music chalao party ke liye",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"deep house party music\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Espresso' Sabrina Carpenter",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Espresso Sabrina Carpenter\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Saari Duniya Jalaa Denge' bajao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Saari Duniya Jalaa Denge\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Workout ke liye Phonk music chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"phonk workout\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Play 'Starboy' Weeknd",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Starboy\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Tera Yaar Hoon Main' lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Tera Yaar Hoon Main\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Ambarsariya' gana chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Ambarsariya\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Desi hip hop playlist play kar",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Desi Hip Hop\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Play 'Mockingbird' Eminem",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Mockingbird\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Kabira' gana lagao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Kabira\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "90s Kumar Sanu hits chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Kumar Sanu 90s hits\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Play 'Skyfall' Adele",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Skyfall Adele\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Brown Munde' bajao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Brown Munde\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Chill lo-fi hip hop beats chalao",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"lo-fi hip hop beats\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Play 'Lovely' Billie Eilish",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Lovely Billie Eilish\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Chaiyya Chaiyya' chalao old is gold",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Chaiyya Chaiyya\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai 'Daku' gana lagao please",
+    "assistant": "{\"action\":\"play_music\",\"params\":{\"query\":\"Daku\"},\"confidence\":0.99}"
+  }
+]

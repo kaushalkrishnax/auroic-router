@@ -1,0 +1,72 @@
+DATASET ANALYSIS REPORT
+Generated: 2026-03-02T17:32:47.474Z
+
+════════════════════════════════════════════════════════════
+ ANALYSIS: HEARTBEAT
+ File: heartbeat_dataset_final.txt
+════════════════════════════════════════════════════════════
+
+── Overview ─────────────────────────────────────────
+  Total blocks in file:   2500
+  Valid parsed samples:   2500
+  Invalid/malformed:      0
+  Target total:           2500
+  Completion:             100.0%
+  Gap:                    0 samples short
+
+── Message Count Distribution ───────────────────────
+  Count    Actual   Actual%    Target%    Gap      Status
+  ────────────────────────────────────────────────────
+  2-msg    254      10.2%      10.0%      -4       ✓
+  3-msg    414      16.6%      15.0%      -39      ✓
+  4-msg    575      23.0%      25.0%      +50      ≈
+  5-msg    1257     50.3%      50.0%      -7       ✓
+  Distribution score: 95.0/100
+
+── Action Distribution ──────────────────────────────
+  Action         Actual   Actual%    Target%    Gap      Status
+  ──────────────────────────────────────────────────────────
+  communicate    1125     45.0%      45.0%      0        ✓
+  send_media     750      30.0%      30.0%      0        ✓
+  ignore         625      25.0%      25.0%      0        ✓
+  Distribution score: 100.0/100
+
+── Reasoning Distribution ───────────────────────────
+  low:    338 (30.0%)
+  medium: 506 (45.0%)
+  high:   281 (25.0%)
+
+── Confidence Statistics ────────────────────────────
+  Action         Mean     Std      Min      Median   Max
+  ──────────────────────────────────────────────────────
+  communicate    0.870    0.038    0.80     0.86     0.95
+  send_media     0.906    0.023    0.85     0.90     0.96
+  ignore         0.791    0.020    0.75     0.79     0.90
+
+── Language Mix ─────────────────────────────────────
+  Hinglish:  1983 (79.3%)
+  English:   517 (20.7%)
+
+── Content Quality ──────────────────────────────────
+  Avg message length (chars):  21.9
+  Avg send_media query words:  2.3
+  Very short messages (<5chr): 0
+
+── Residual Duplicate Check ─────────────────────────
+  Exact:              0
+  Whitespace/case:    0
+  Same messages:      0
+  Near-duplicate:     0
+  Total residual:     0
+  Clean after rescan: 2500
+
+── Overall Health Score ─────────────────────────────
+  MsgCount distribution:  95.0/100    (weight 30%)
+  Action distribution:    100.0/100    (weight 30%)
+  Completion:             100.0/100    (weight 25%)
+  Cleanliness:            100.0/100    (weight 15%)
+  ─────────────────────────────────────────
+  OVERALL SCORE:          98.5/100
+  GRADE:                  A
+
+  ✓ Dataset looks healthy. No major issues found.

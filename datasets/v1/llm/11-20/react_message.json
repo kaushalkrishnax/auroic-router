@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai ispe 😂 react kar de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"😂\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Like kar is message ko",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"👍\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Heart bhej de bro ❤️",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"❤️\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ispe fire wala emoji laga 🔥",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🔥\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "React with a 💯",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"💯\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai shock wala react kar 😱",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"😱\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ispe clap kar do 👏",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"👏\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Sad react bhej 😢",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"😢\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Star de de ispe ⭐",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"⭐\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai gussa wala react kar 😡",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"😡\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Thumbs up please",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"👍\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ispe rocket uda de 🚀",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🚀\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai party wala emoji bhej 🎉",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎉\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "React with a cool emoji 😎",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"😎\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ispe pray wala react kar 🙏",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🙏\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai thinking wala emoji lagana 🤔",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🤔\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ispe mind blown react kar 🤯",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🤯\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Check mark bhej ✅",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"✅\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai eyes wala react kar 👀",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"👀\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ispe smile bhej do 😊",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"😊\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Victory wala sign bhej ✌️",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"✌️\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai wink kar 😉",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"😉\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ispe rainbow bhej 🌈",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🌈\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "React with a 💎",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"💎\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai skull wala react kar 💀",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"💀\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ispe sparkle bhej ✨",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"✨\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai 🤣 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🤣\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Ispe hand raise kar 🙋‍♂️",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🙋‍♂️\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "React with a cake 🎂",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎂\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai 🤙 ye wala sign bhej",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🤙\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ispe sun bhej ☀️",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"☀️\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai 😈 evil smile react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"😈\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ispe 🎈 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎈\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "React with a 🍕",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🍕\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai 🦾 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🦾\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Ispe 🌊 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🌊\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "React with a 🦁",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🦁\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai 🎯 ye wala bhej",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎯\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ispe 🧿 bhej do nazar na lage",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🧿\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "React with a 🎸",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎸\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai 🎮 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎮\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ispe 🍿 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🍿\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "React with a 🥂",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🥂\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai 🛸 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🛸\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ispe 🧘‍♂️ bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🧘‍♂️\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "React with a 🎨",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎨\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai 🐉 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🐉\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Ispe 🧩 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🧩\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "React with a 📸",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"📸\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai 💡 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"💡\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ispe 🕰️ bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🕰️\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "React with a 🔋",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🔋\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai 🛠️ ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🛠️\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ispe 📦 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"📦\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "React with a 🔑",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🔑\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai 🧿 ye wala bhej",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🧿\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ispe 🧬 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🧬\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "React with a 🧪",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🧪\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai 🔭 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🔭\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Ispe 🌡️ bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🌡️\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "React with a 🛒",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🛒\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai 🎁 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎁\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Ispe 🎈 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎈\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "React with a 🎀",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎀\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Bhai 🎊 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎊\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Ispe 🧧 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🧧\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "React with a 🎐",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai 🎎 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎎\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Ispe 🎑 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "React with a 🎋",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai 🎍 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Ispe 🎏 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "React with a 🎐",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai 🎑 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Ispe 🎋 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "React with a 🎍",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai 🎏 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Ispe 🎐 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "React with a 🎑",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai 🎋 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Ispe 🎍 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "React with a 🎏",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Bhai 🎐 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Ispe 🎑 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "React with a 🎋",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Bhai 🎍 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Ispe 🎏 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "React with a 🎐",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai 🎑 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Ispe 🎋 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "React with a 🎍",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai 🎏 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Ispe 🎐 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "React with a 🎑",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai 🎋 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Ispe 🎍 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "React with a 🎏",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Bhai 🎐 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Ispe 🎑 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "React with a 🎋",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Bhai 🎍 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Ispe 🎏 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "React with a 🎐",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai 🎑 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Ispe 🎋 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "React with a 🎍",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai 🎏 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Ispe 🎐 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "React with a 🎑",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai 🎋 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Ispe 🎍 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "React with a 🎏",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Bhai 🎐 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Ispe 🎑 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "React with a 🎋",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "Bhai 🎍 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Ispe 🎏 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "React with a 🎐",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Bhai 🎑 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Ispe 🎋 bhej do",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  },
+  {
+    "user": "React with a 🎍",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎍\"},\"confidence\":0.90}"
+  },
+  {
+    "user": "Bhai 🎏 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎏\"},\"confidence\":0.86}"
+  },
+  {
+    "user": "Ispe 🎐 bhej de",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎐\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "React with a 🎑",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎑\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Bhai 🎋 ye wala react kar",
+    "assistant": "{\"action\":\"react_message\",\"params\":{\"emoji\":\"🎋\"},\"confidence\":0.87}"
+  }
+]

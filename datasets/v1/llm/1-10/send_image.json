@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai ek mast Ferrari ki photo bhej toh",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Ferrari car\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Cute puppy ki images dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"cute puppy\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Nature wala wallpaper chahiye phone ke liye",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"nature wallpaper\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai Virat Kohli ki koi kkadak photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Virat Kohli\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Suggest some outfit ideas for men (pics)",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"men fashion outfit ideas\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Space ki images bhej, galaxy wali",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"galaxy space stars\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai Burj Khalifa ki photo bhej de",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Burj Khalifa\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Mountain sunset ki pic bhej na",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"mountain sunset\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Gaming setup kaisa hona chahiye? Photo dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"pro gaming setup\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai Eiffel Tower ki image bhej jaldi",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Eiffel Tower\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Iron Man ki cool wallpaper bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Iron Man wallpaper\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Tattoo designs dikhao for hand",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"hand tattoo designs\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai Taj Mahal ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Taj Mahal\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Scy-fy city ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"sci-fi futuristic city\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai Dhoni ka signature step wali photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"MS Dhoni helicopter shot\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Beautiful beaches in Maldives ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Maldives beaches\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Sneakers ki pics dikha mast wali",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"trendy sneakers\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai anime wallpaper bhej Naruto ka",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Naruto anime wallpaper\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Dessert ki photos bhej, bhook lag rahi hai",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"delicious desserts\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Bhai tiger ki aggressive photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"aggressive tiger\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "New York city lights ki pic dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"New York city night lights\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai vintage cars ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"vintage cars\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Abstract art ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"abstract art\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai Lord Shiva ki koi powerful photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Lord Shiva\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Kedarnath temple ki photo bhej na",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Kedarnath temple\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai pizza ki ek dum yummy pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"cheesy pizza\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Lion king ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"lion king nature\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai Lamborghini Urus dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Lamborghini Urus\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Rainy day aesthetic pics bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"rainy day aesthetic\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai gym motivation wallpaper bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"gym motivation bodybuilding\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Coffee art ki photos dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"latte art coffee\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai Joker ki dark wallpaper bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Joker movie wallpaper\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Snowy mountains in Switzerland ki pic",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Switzerland snow mountains\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai Spider-Man Across the Spider-Verse ki image bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Spider-Verse movie\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Healthy salad ki photos dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"healthy salad\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Bhai bike stunts ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"bike stunts\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Cyberpunk vibes wali images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"cyberpunk aesthetic\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai Golden Temple ki pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Golden Temple Amritsar\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Cute kittens ki photo bhej na",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"cute kittens\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai black aesthetic wallpaper bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"black aesthetic wallpaper\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Luxury watch ki photos dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"luxury watches\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai Cristiano Ronaldo ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Cristiano Ronaldo\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Forest trail ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"forest trail path\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai Batman ki cool pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Batman dark knight\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Indian street food ki photos dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Indian street food\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai moon ki high res image bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"moon close up\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Cherry blossom in Japan ki pic",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Japan cherry blossom\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai supercars ki collage bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"supercars collage\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Minimalist home decor ki photos bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"minimalist interior design\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai GTA 6 ki leaked images bhej (agar hain toh)",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"GTA 6 game artwork\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Ocean waves ki photo bhej na",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"ocean waves\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai funny meme images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"funny memes\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Waterfall ki images dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"beautiful waterfall\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai iPhone 16 ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"iPhone 16 pro\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Greek architecture ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"ancient Greek architecture\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai Goku Ultra Instinct ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Goku Ultra Instinct\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "London Eye ki night view pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"London Eye night view\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai chocolate cake ki pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"chocolate lava cake\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Desert safari ki photos dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"desert safari\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai Harry Potter ki magic wali photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Harry Potter magic\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Yoga poses ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"yoga poses\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai wolves ki photo bhej dark wali",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"dark wolf\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Grand Canyon ki pic dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Grand Canyon\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai biryani ki delicious photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"hyderabadi biryani\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Skyline of Dubai ki photos bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Dubai skyline\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai anime girl aesthetic pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"anime girl aesthetic\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Dolphin ki photo bhej na",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"dolphin jumping\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai gaming pc ki internal lighting photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"gaming pc RGB lighting\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Floral patterns ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"floral patterns art\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai Messi ki world cup trophy wali photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Messi world cup trophy\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Northern lights ki pic dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"aurora borealis northern lights\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai burger ki photo bhej mast wali",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"giant burger\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Autumn leaves ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"autumn leaves season\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai Deadpool ki funny photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Deadpool funny\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Ancient temples in India ki photos",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"ancient Indian temples\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai guitar ki aesthetic photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"aesthetic guitar\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Panda eating bamboo ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"panda eating bamboo\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai futuristic cars ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"futuristic concept cars\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Tropical island ki pic dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"tropical island\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai Captain America ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Captain America\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Street art graffiti ki photos bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"graffiti street art\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai laptop ki setup photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"minimalist laptop setup\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Peacock dancing ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"peacock dancing\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ice cream ki pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"ice cream scoops\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Old library ki photos dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"old vintage library\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai gym workout ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"gym workout action\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Starry night sky ki pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"starry night sky\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai Iron Man suit collection bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Iron Man suits\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Sushi ki photos dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"sushi platter\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai eagle ki flying photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"eagle flying\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Modern architecture ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"modern skyscraper architecture\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai Ferrari interior dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Ferrari interior\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Baby elephant ki photo bhej na",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"baby elephant\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai coffee and book aesthetic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"coffee and book aesthetic\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Mountain climbing ki photos dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"mountain climbing\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai Thor ki lightning wali photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Thor God of Thunder\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Underwater world ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"underwater coral reef\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai pasta ki photo bhej yummy wali",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"italian pasta\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Great Wall of China ki pic",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Great Wall of China\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai Demon Slayer anime ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Demon Slayer anime\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Lotus flower ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"lotus flower\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai expensive watch ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"expensive luxury watch\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Sky diving ki photos dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"sky diving\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai spider-man ps5 ki image bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Spider-Man PS5 game\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Zodiac signs ki art bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"zodiac signs art\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai lion ki family photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"lion family\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Viking warrior ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"viking warrior\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai pancake ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"pancakes with syrup\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Colosseum in Rome ki pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Rome Colosseum\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai One Piece anime wallpaper bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"One Piece anime\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Sunflowers field ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"sunflower field\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai sports bike ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"sports bike\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Camping under stars ki photos",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"camping under stars\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai Black Panther ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Black Panther Marvel\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Vintage camera ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"vintage camera\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai milkshake ki photo bhej yummy wali",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"milkshake with whipped cream\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Statue of Liberty ki pic dikhao",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Statue of Liberty\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai Saitama ki funny photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Saitama One Punch Man\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Rainforest ki images bhej na",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"tropical rainforest\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai drift car ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"drift car action\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Minimalist art ki photos bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"minimalist line art\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai donuts ki yummy pic bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"colorful donuts\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Venice canals ki images bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Venice canals\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai Deadpool and Wolverine ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"Deadpool and Wolverine\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai cute dog ki photo bhej",
+    "assistant": "{\"action\":\"send_image\",\"params\":{\"query\":\"cute dog\"},\"confidence\":0.97}"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai koi mast engineering meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"engineering\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Exam results aa rahe hain, relatable meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"exam results\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai coding struggles pe koi meme bhej na 😂",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"coding\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Monday morning vibes... meme send kar",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"monday blues\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai RCB fans wala dukh wala meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"RCB fans\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Gym motivation vs reality meme chahiye",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"gym reality\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai shaadi season pe koi funny meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"indian weddings\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Salary aate hi khatam... meme bhej bhai",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"salary\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai dosto ke upar koi roasting meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"friends roasting\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Wfh vs office meme bhej do",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"work from home\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai diet plan pe koi funny meme dikha",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"dieting\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Introverts in party... meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"introverts\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai relationship problems pe koi meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"relationship\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Backbenchers in class meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"backbenchers\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai garmi itni hai... koi meme bhej ispe",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"summer heat\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Online shopping addiction meme bhej na",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"online shopping\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai corporate life ka dard dikhao meme mein",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"corporate life\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Hostel life vs Ghar ka khana meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"hostel life\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai single logo ka dukh... meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"singles\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Travel plans with friends failing meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"trip cancel\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai crypto investors ki halat dikhao meme se",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"crypto crash\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Desi parents and tech meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"desi parents\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai 5 baje uthne wala jhoot... meme dikha",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"early morning routine\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Netflix binge watching vs sleep meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"binge watching\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai shark tank india pe koi meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"shark tank\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Teacher calling parents meme bhej do",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"school life\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai end moment assignment submission meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"assignments\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me vs My bank balance meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"bank balance\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai biryani vs pulao debate meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"biryani\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Insta vs Reality meme bhej na",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"instagram reality\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai viva mein teacher ke saamne blank... meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"viva exam\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Adulting is hard meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"adulting\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai weekend plans vs sleeping meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"weekend reality\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Group projects with useless friends meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"group projects\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai mid-life crisis at 22... meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"mid-life crisis\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Startup founders logic meme dikha",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"startup founders\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai rainy season traffic meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"bangalore traffic\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me explaining a meme to my mom",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"explaining memes\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai gym bro logic meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"gym bros\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Last benchers during lecture meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"last benchers\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai Goa trip planning vs execution meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"goa trip\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai Tinder matches (zero) meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"dating apps\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Me after 10 mins of study meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"studying hard\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai food delivery late hone wala meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"zomato swiggy\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Me waiting for salary meme bhej na",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"waiting for salary\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai HR calls vs reality meme dikha",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"HR department\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "LinkedIn influencers be like... meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"linkedin influencers\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai galti se reply-all kar diya... meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"office mistakes\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to save money meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"saving money\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai relatives asking for shaadi meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"indian relatives\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me at 3 AM thinking about my life choices",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"late night thoughts\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai backlogs in engineering meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"backlogs\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "AI taking over jobs meme dikha bhai",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"AI taking jobs\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai iPhone price vs my kidney meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"iphone price\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to be productive meme bhej do",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"productivity\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai long distance relationship struggles meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"ldr struggles\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Me after watching 1 motivational video meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"motivation reality\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai cricket match pressure meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"cricket match\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me in every zoom meeting meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"zoom meetings\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai weekend over already? meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"sunday night\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to understand crypto meme bhej na",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"crypto confusion\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai chai vs coffee lovers meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"chai coffee\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Me after eating 1 salad meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"fitness journey\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai freelancing life struggles meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"freelancing\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me explaining why I'm late to office meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"late to work\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai online classes vs offline classes meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"online classes\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Me trying to fix a bug meme bhej do",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"debugging\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai shopping with girlfriend meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"shopping with gf\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Me at a family function meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"family functions\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai weekend is here finally! meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"friday night\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to cook for the first time meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"cooking fails\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai gym membership wasting meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"gym membership\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me after checking the price tag meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"price tags\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai college placements stress meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"college placements\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to wake up at 6 AM meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"waking up early\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai relationship vs gaming meme bhej na",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"gaming vs relationship\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Me after 1 week of gym meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"gym progress\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai corporate buzzwords be like... meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"corporate jargon\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to understand stock market meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"stock market\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai friends borrowing money meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"borrowing money\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me during a power cut in summer meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"power cut\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai work-life balance is a myth meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"work life balance\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me after seeing my bank statement meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"bank statement\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai online vs offline shopping meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"shopping\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Me trying to sleep but brain says no meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"insomnia\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai introverts at a social event meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"social anxiety\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Me trying to act normal in front of crush meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"crush\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai end of the month struggles meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"end of month\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Me trying to learn a new language meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"new language\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai startup vs big tech jobs meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"tech jobs\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me after watching a scary movie meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"scary movies\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai waiting for a reply meme bhej na",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"waiting for reply\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Me trying to be a morning person meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"morning person\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai group study vs reality meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"group study\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me after 1 day of diet meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"diet reality\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai corporate hierarchy meme bhej do",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"corporate hierarchy\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Me trying to understand Gen Z slang meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"gen z slang\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai online dating struggles meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"online dating\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Me after checking my screen time meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"screen time\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai weekend trip expectations vs reality meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"weekend trip\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to focus in a meeting meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"focusing\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai office parties be like... meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"office parties\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Me after buying something expensive meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"expensive purchase\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai gym trainer vs me meme bhej na",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"gym trainer\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Me trying to stay awake in class meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"sleepy in class\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai corporate emails vs reality meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"corporate emails\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to understand my own code meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"coding reality\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai winter morning struggles meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"winter morning\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Me after seeing a spider meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"spiders\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai group chat drama meme bhej do",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"group chat\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to be healthy at a party meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"healthy living\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai salary day vs end of month meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"salary cycle\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me after 1 week of working out meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"gym results\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai office gossip be like... meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"office gossip\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to understand taxes meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"taxes\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai Monday morning meeting meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"monday meeting\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me after watching a long series meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"series finale\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai online shopping vs bank balance meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"shopping reality\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to be organized meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"organization\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai corporate appraisal season meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"appraisals\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me after 1 hour of productivity meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"productivity break\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai weekend vibe check meme bhej",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"weekend vibes\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me trying to stay hydrated meme dikhao",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"staying hydrated\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai office coffee vs real coffee meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"office coffee\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Me after a long day of work meme",
+    "assistant": "{\"action\":\"send_meme\",\"params\":{\"topic\":\"exhaustion\"},\"confidence\":0.96}"
+  }
+]

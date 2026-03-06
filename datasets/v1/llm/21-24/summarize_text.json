@@ -1,0 +1,502 @@
+[
+  {
+    "user": "Bhai ye itna bada article hai, short me bata de kya likha hai",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Is lambe message ka summary de do please",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Summarize this paragraph in 2 lines",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"very_short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska gist kya hai? Boring lag raha pura padhna",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"gist\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Points me bata do main main baatein kya hain",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Brief kar de is story ko jaldi se",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Is screenshot mein jo text hai uska summary chahiye",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai itne saare notes hain, inka ek overview de do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"overview\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Ye news article ka main point kya hai?",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Too long, didn't read... summary bhej bhai",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai is report ko summarize kar sakte ho?",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"detailed\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Iska conclusion kya hai? Short me batao",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye legal document ka matlab short me samjha de",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Can you summarize the meeting notes in points?",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Is email ka summary bhej do urgent hai",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai itni badi kahani... summary de na",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Summarize this essay for me",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai is book summary ka bhi summary de de",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"very_short\"},\"confidence\":0.89}"
+  },
+  {
+    "user": "Key takeaways batao is article ke",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye terms and conditions brief kar do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Short version chahiye is description ka",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai ye project report bahut badi hai, gist de do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"gist\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Iska main theme kya hai? Summarize karo",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai 100 words me summarize kar do ise",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Points me likh do kya kya important hai isme",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai iska summary chahiye Instagram caption ke liye",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"very_short\"},\"confidence\":0.92}"
+  },
+  {
+    "user": "Brief overview do is naye update ka",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"overview\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye manual padhne ka time nahi, short me bata kaise hoga",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Summarize this thread for me",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai iska makkhan nikal ke bata de (summary)",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.88}"
+  },
+  {
+    "user": "Is chat history ka summary kya hai?",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Bhai ye research paper brief kar do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Important points highlight kar do summary mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai ye blog post bahut lamba hai, summary de",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Gist bhej do is pure scene ka",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"gist\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai summary chahiye simple language mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Short summary bhej is script ki",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai points me batao kya plan hai is document mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Briefly explain what this text is about",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska summary do, dimaag nahi chal raha",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.91}"
+  },
+  {
+    "user": "Summarize this into a single sentence",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"very_short\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai main points bhej do is presentation ke",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Iska summary chahiye for my notes",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Bhai ye novel ka summary de de short me",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.94}"
+  },
+  {
+    "user": "Brief summary bhej do is legal notice ka",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai iska gist bata de taaki main reply kar saku",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"gist\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Summarize the following text in bullets",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai ye recipe ka summary de do step by step",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.93}"
+  },
+  {
+    "user": "Iska short summary bhej do WhatsApp group ke liye",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai iska brief overview chahiye",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"overview\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Summarize this interview transcript",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai main points kya hain isme? Short me bata",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Iska summary de do in 5 points",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai ye lamba essay summarize kar de",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Brief kar do is update ko",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai iska gist chahiye bas",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"gist\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Summarize this into a short paragraph",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai iska summary bhej do fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska brief bhej do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai points me bata do kya scene hai",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Summarize this for a kid",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.95}"
+  },
+  {
+    "user": "Bhai iska summary de do simple words mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.96}"
+  },
+  {
+    "user": "Iska main gist kya hai?",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"gist\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Bhai points me bata do summary",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this long story",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.97}"
+  },
+  {
+    "user": "Bhai iska short version bhej do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Iska brief summary chahiye",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me batao iska summary",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Summarize this into points",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska summary de do jaldi",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska short summary chahiye",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me bata do kya hai isme",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Summarize this text",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska summary bhej do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska brief summary de do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me batao kya hai",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.98}"
+  },
+  {
+    "user": "Summarize this for me please",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska short version de do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska summary chahiye points mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai brief kar do is text ko",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this into a paragraph",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska gist bhej do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"gist\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska summary de do short me",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me bata do important points",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this story for me",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska brief summary bhej do",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska summary chahiye short mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me batao summary iska",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this text into points",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska short summary de do jaldi",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"short\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska brief summary chahiye points mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me bata do kya likha hai",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this document for me",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska brief bhej do fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska short summary de do points mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me batao main points",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this article into points",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska brief summary de do fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"brief\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska short summary chahiye points mein please",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me bata do kya hai is article mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this report for me please",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"balanced\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska short summary bhej do points mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska brief summary de do points mein fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me batao summary is article ka",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this text into bullet points",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska short summary de do points mein jaldi",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska brief summary chahiye bullet points mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me bata do kya likha hai isme",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this for me in bullet points",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska brief summary bhej do bullet points mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska short summary chahiye bullet points mein fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me batao summary is document ka",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this into bullet points please",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska brief summary de do bullet points mein fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska short summary chahiye bullet points mein please fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me bata do kya hai is report mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this into points for me",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska brief summary bhej do points mein please",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska short summary chahiye points mein please fast fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me batao summary is report ka",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this text into points for me please",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai iska brief summary de do points mein please fast fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Iska short summary chahiye points mein please fast fast fast",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Bhai points me bata do kya hai is document mein",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  },
+  {
+    "user": "Summarize this for me in points please",
+    "assistant": "{\"action\":\"summarize_text\",\"params\":{\"style\":\"bullet_points\"},\"confidence\":0.99}"
+  }
+]
