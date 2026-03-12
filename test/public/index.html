@@ -32,13 +32,7 @@
       --sans: 'Syne', sans-serif;
     }
 
-    *,
-    *::before,
-    *::after {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
       background: var(--bg);
@@ -68,125 +62,54 @@
     header::after {
       content: '';
       position: absolute;
-      bottom: 0;
-      left: 0;
-      right: 0;
+      bottom: 0; left: 0; right: 0;
       height: 1px;
       background: linear-gradient(90deg, transparent, var(--accent), var(--accent2), transparent);
       opacity: 0.4;
     }
 
-    .brand {
-      display: flex;
-      align-items: center;
-      gap: 14px;
-    }
+    .brand { display: flex; align-items: center; gap: 14px; }
 
     .brand-mark {
-      width: 34px;
-      height: 34px;
+      width: 34px; height: 34px;
       background: linear-gradient(135deg, var(--accent), var(--accent2));
       border-radius: 8px;
-      display: grid;
-      place-items: center;
-      font-size: 17px;
-      font-weight: 800;
-      color: white;
-      letter-spacing: -1px;
-      box-shadow: 0 0 20px rgba(79, 142, 255, 0.3);
+      display: grid; place-items: center;
+      font-size: 17px; font-weight: 800;
+      color: white; letter-spacing: -1px;
+      box-shadow: 0 0 20px rgba(79,142,255,0.3);
     }
 
-    .brand-text {
-      display: flex;
-      flex-direction: column;
-      gap: 1px;
-    }
+    .brand-text { display: flex; flex-direction: column; gap: 1px; }
+    .brand-name { font-size: 16px; font-weight: 700; letter-spacing: 0.5px; }
+    .brand-sub { font-size: 11px; font-family: var(--mono); color: var(--muted); letter-spacing: 1.5px; text-transform: uppercase; }
 
-    .brand-name {
-      font-size: 16px;
-      font-weight: 700;
-      letter-spacing: 0.5px;
-      color: var(--text);
-    }
+    .header-stats { display: flex; gap: 32px; align-items: center; }
 
-    .brand-sub {
-      font-size: 11px;
-      font-family: var(--mono);
-      color: var(--muted);
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-    }
-
-    .header-stats {
-      display: flex;
-      gap: 32px;
-      align-items: center;
-    }
-
-    .stat {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 2px;
-    }
-
-    .stat-label {
-      font-size: 10px;
-      font-family: var(--mono);
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 1px;
-    }
-
-    .stat-value {
-      font-size: 16px;
-      font-family: var(--mono);
-      font-weight: 600;
-      color: var(--text);
-    }
-
-    .stat-value.live {
-      color: var(--green);
-    }
+    .stat { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
+    .stat-label { font-size: 10px; font-family: var(--mono); color: var(--muted); text-transform: uppercase; letter-spacing: 1px; }
+    .stat-value { font-size: 16px; font-family: var(--mono); font-weight: 600; }
 
     .model-badge {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      background: var(--panel2);
-      border: 1px solid var(--border2);
-      border-radius: 6px;
-      padding: 8px 14px;
-      font-family: var(--mono);
-      font-size: 12px;
-      color: var(--muted2);
+      display: flex; align-items: center; gap: 8px;
+      background: var(--panel2); border: 1px solid var(--border2);
+      border-radius: 6px; padding: 8px 14px;
+      font-family: var(--mono); font-size: 12px; color: var(--muted2);
     }
 
     .model-dot {
-      width: 7px;
-      height: 7px;
-      background: var(--green);
-      border-radius: 50%;
+      width: 7px; height: 7px;
+      background: var(--green); border-radius: 50%;
       box-shadow: 0 0 8px var(--green);
       animation: pulse 2s infinite;
     }
 
-    @keyframes pulse {
-
-      0%,
-      100% {
-        opacity: 1;
-      }
-
-      50% {
-        opacity: 0.4;
-      }
-    }
+    @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
 
     /* ── Layout ── */
     .layout {
       display: grid;
-      grid-template-columns: 420px 1fr;
+      grid-template-columns: 440px 1fr;
       flex: 1;
       overflow: hidden;
     }
@@ -201,473 +124,227 @@
     }
 
     .sidebar-header {
-      padding: 24px 28px 20px;
+      padding: 20px 28px 16px;
       border-bottom: 1px solid var(--border);
       flex-shrink: 0;
     }
 
     .section-label {
-      font-size: 11px;
-      font-family: var(--mono);
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      color: var(--muted);
-      font-weight: 500;
+      font-size: 11px; font-family: var(--mono);
+      text-transform: uppercase; letter-spacing: 2px;
+      color: var(--muted); font-weight: 500;
     }
 
     .msg-list {
-      flex: 1;
-      overflow-y: auto;
-      padding: 20px 28px;
-      display: flex;
-      flex-direction: column;
-      gap: 14px;
+      flex: 1; overflow-y: auto;
+      padding: 16px 28px;
+      display: flex; flex-direction: column; gap: 10px;
     }
 
-    .msg-row {
-      display: flex;
-      gap: 12px;
-      align-items: flex-start;
+    .msg-group-label {
+      font-size: 10px; font-family: var(--mono);
+      text-transform: uppercase; letter-spacing: 2px;
+      color: var(--accent); opacity: 0.7;
+      padding: 4px 0 2px;
     }
+
+    .msg-row { display: flex; gap: 10px; align-items: flex-start; }
 
     .msg-num {
-      width: 28px;
-      height: 28px;
-      background: var(--panel2);
-      border: 1px solid var(--border2);
+      width: 32px; height: 32px;
+      background: var(--panel2); border: 1px solid var(--border2);
       border-radius: 6px;
-      display: grid;
-      place-items: center;
-      font-family: var(--mono);
-      font-size: 11px;
-      font-weight: 600;
-      color: var(--muted2);
-      flex-shrink: 0;
-      margin-top: 2px;
+      display: grid; place-items: center;
+      font-family: var(--mono); font-size: 11px; font-weight: 600;
+      color: var(--muted2); flex-shrink: 0; margin-top: 2px;
     }
+
+    .msg-num.cand { color: var(--accent); border-color: rgba(79,142,255,0.3); }
 
     .msg-input {
       flex: 1;
-      background: var(--panel2);
-      border: 1px solid var(--border);
-      border-radius: var(--r);
-      color: var(--text);
-      font-family: var(--mono);
-      font-size: 13px;
-      padding: 12px 14px;
-      resize: none;
-      min-height: 52px;
-      outline: none;
-      line-height: 1.6;
+      background: var(--panel2); border: 1px solid var(--border);
+      border-radius: var(--r); color: var(--text);
+      font-family: var(--mono); font-size: 13px;
+      padding: 10px 12px; resize: none; min-height: 46px;
+      outline: none; line-height: 1.6;
       transition: border-color 0.2s;
     }
 
-    .msg-input:focus {
-      border-color: var(--accent);
-      box-shadow: 0 0 0 3px rgba(79, 142, 255, 0.08);
-    }
-
-    .msg-input::placeholder {
-      color: var(--muted);
-    }
+    .msg-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(79,142,255,0.08); }
+    .msg-input::placeholder { color: var(--muted); }
+    .msg-input.cand-input:focus { border-color: var(--accent2); box-shadow: 0 0 0 3px rgba(124,92,252,0.08); }
 
     .sidebar-footer {
-      padding: 20px 28px;
+      padding: 16px 28px;
       border-top: 1px solid var(--border);
       flex-shrink: 0;
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
     }
 
-    .btn-row {
-      display: flex;
-      gap: 10px;
-    }
+    .btn-row { display: flex; gap: 10px; }
 
     .btn {
-      padding: 13px 20px;
-      border-radius: var(--r);
-      font-family: var(--sans);
-      font-size: 14px;
-      font-weight: 600;
-      cursor: pointer;
-      border: 1px solid transparent;
-      transition: all 0.18s;
-      letter-spacing: 0.3px;
+      padding: 12px 20px; border-radius: var(--r);
+      font-family: var(--sans); font-size: 14px; font-weight: 600;
+      cursor: pointer; border: 1px solid transparent;
+      transition: all 0.18s; letter-spacing: 0.3px;
     }
 
     .btn-primary {
       background: linear-gradient(135deg, var(--accent), var(--accent2));
-      color: white;
-      flex: 1;
-      box-shadow: 0 4px 16px rgba(79, 142, 255, 0.25);
+      color: white; flex: 1;
+      box-shadow: 0 4px 16px rgba(79,142,255,0.25);
     }
 
-    .btn-primary:hover {
-      filter: brightness(1.1);
-      transform: translateY(-1px);
-    }
-
-    .btn-primary:active {
-      transform: translateY(0);
-    }
-
-    .btn-primary:disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
-      transform: none;
-    }
+    .btn-primary:hover { filter: brightness(1.1); transform: translateY(-1px); }
+    .btn-primary:active { transform: translateY(0); }
+    .btn-primary:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
 
     .btn-ghost {
-      background: transparent;
-      border-color: var(--border2);
-      color: var(--muted2);
+      background: transparent; border-color: var(--border2); color: var(--muted2);
     }
-
-    .btn-ghost:hover {
-      border-color: var(--muted);
-      color: var(--text);
-    }
+    .btn-ghost:hover { border-color: var(--muted); color: var(--text); }
 
     /* ── Main ── */
-    .main-area {
-      display: grid;
-      grid-template-rows: 1fr 320px;
-      overflow: hidden;
-    }
+    .main-area { display: grid; grid-template-rows: 1fr 300px; overflow: hidden; }
 
     /* ── Result Stage ── */
     .result-stage {
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      display: flex; align-items: center; justify-content: center;
       padding: 48px;
       background:
-        radial-gradient(ellipse 60% 50% at 50% 50%, rgba(79, 142, 255, 0.04) 0%, transparent 70%),
+        radial-gradient(ellipse 60% 50% at 50% 50%, rgba(79,142,255,0.04) 0%, transparent 70%),
         var(--bg);
-      overflow-y: auto;
-      position: relative;
+      overflow-y: auto; position: relative;
     }
 
     .result-stage::before {
       content: '';
-      position: absolute;
-      inset: 0;
+      position: absolute; inset: 0;
       background-image:
         linear-gradient(var(--border) 1px, transparent 1px),
         linear-gradient(90deg, var(--border) 1px, transparent 1px);
       background-size: 48px 48px;
-      opacity: 0.25;
-      pointer-events: none;
+      opacity: 0.25; pointer-events: none;
     }
 
     .decision-card {
-      background: rgba(14, 16, 20, 0.95);
+      background: rgba(14,16,20,0.95);
       backdrop-filter: blur(20px);
       border: 1px solid var(--border2);
       border-radius: 16px;
-      width: 100%;
-      max-width: 680px;
+      width: 100%; max-width: 680px;
       padding: 32px;
-      box-shadow:
-        0 32px 64px rgba(0, 0, 0, 0.5),
-        0 0 0 1px rgba(255, 255, 255, 0.03) inset;
-      position: relative;
-      z-index: 1;
+      box-shadow: 0 32px 64px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.03) inset;
+      position: relative; z-index: 1;
     }
 
     .card-top {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 28px;
-      padding-bottom: 20px;
+      display: flex; justify-content: space-between; align-items: center;
+      margin-bottom: 28px; padding-bottom: 20px;
       border-bottom: 1px solid var(--border);
     }
 
-    .card-title {
-      font-size: 13px;
-      font-family: var(--mono);
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 1.5px;
-    }
+    .card-title { font-size: 13px; font-family: var(--mono); color: var(--muted); text-transform: uppercase; letter-spacing: 1.5px; }
 
     .status-pill {
-      display: flex;
-      align-items: center;
-      gap: 7px;
-      font-family: var(--mono);
-      font-size: 12px;
-      padding: 5px 12px;
-      border-radius: 20px;
-      background: var(--panel2);
-      border: 1px solid var(--border2);
-      color: var(--muted2);
+      display: flex; align-items: center; gap: 7px;
+      font-family: var(--mono); font-size: 12px;
+      padding: 5px 12px; border-radius: 20px;
+      background: var(--panel2); border: 1px solid var(--border2); color: var(--muted2);
     }
 
-    .status-pill.success {
-      color: var(--green);
-      border-color: rgba(45, 216, 122, 0.25);
-      background: rgba(45, 216, 122, 0.06);
-    }
+    .status-pill.success { color: var(--green); border-color: rgba(45,216,122,0.25); background: rgba(45,216,122,0.06); }
+    .status-pill.error { color: var(--red); border-color: rgba(240,79,79,0.25); background: rgba(240,79,79,0.06); }
 
-    .status-pill.error {
-      color: var(--red);
-      border-color: rgba(240, 79, 79, 0.25);
-      background: rgba(240, 79, 79, 0.06);
-    }
+    .fields-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .field-full { grid-column: 1 / -1; }
+    .field { display: flex; flex-direction: column; gap: 8px; }
 
-    .fields-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px;
-    }
-
-    .field-full {
-      grid-column: 1 / -1;
-    }
-
-    .field {
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-    }
-
-    .field-label {
-      font-size: 10px;
-      font-family: var(--mono);
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      color: var(--muted);
-      font-weight: 600;
-    }
+    .field-label { font-size: 10px; font-family: var(--mono); text-transform: uppercase; letter-spacing: 2px; color: var(--muted); font-weight: 600; }
 
     .field-val {
-      background: var(--panel2);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 14px 16px;
-      font-family: var(--mono);
-      font-size: 15px;
-      color: var(--muted2);
-      min-height: 52px;
-      display: flex;
-      align-items: center;
-      transition: all 0.2s;
-      word-break: break-word;
+      background: var(--panel2); border: 1px solid var(--border);
+      border-radius: 8px; padding: 14px 16px;
+      font-family: var(--mono); font-size: 15px; color: var(--muted2);
+      min-height: 52px; display: flex; align-items: center;
+      transition: all 0.2s; word-break: break-word;
     }
 
     .field-val.type-val {
-      font-size: 22px;
-      font-weight: 600;
-      color: var(--accent);
-      border-color: rgba(79, 142, 255, 0.2);
-      background: rgba(79, 142, 255, 0.05);
-      min-height: 64px;
-      justify-content: center;
-      text-transform: uppercase;
-      letter-spacing: 3px;
+      font-size: 22px; font-weight: 600; color: var(--accent);
+      border-color: rgba(79,142,255,0.2); background: rgba(79,142,255,0.05);
+      min-height: 64px; justify-content: center;
+      text-transform: uppercase; letter-spacing: 3px;
     }
 
-    .field-val.has-value {
-      color: var(--text);
-    }
-
-    .field-val.null-val {
-      color: var(--muted);
-      font-style: italic;
-    }
-
-    .effort-low {
-      color: var(--green) !important;
-      border-color: rgba(45, 216, 122, 0.2) !important;
-      background: rgba(45, 216, 122, 0.04) !important;
-    }
-
-    .effort-medium {
-      color: var(--amber) !important;
-      border-color: rgba(245, 166, 35, 0.2) !important;
-      background: rgba(245, 166, 35, 0.04) !important;
-    }
-
-    .effort-high {
-      color: var(--red) !important;
-      border-color: rgba(240, 79, 79, 0.2) !important;
-      background: rgba(240, 79, 79, 0.04) !important;
-    }
+    .field-val.has-value { color: var(--text); }
+    .field-val.null-val { color: var(--muted); font-style: italic; }
+    .effort-low { color: var(--green) !important; border-color: rgba(45,216,122,0.2) !important; background: rgba(45,216,122,0.04) !important; }
+    .effort-medium { color: var(--amber) !important; border-color: rgba(245,166,35,0.2) !important; background: rgba(245,166,35,0.04) !important; }
+    .effort-high { color: var(--red) !important; border-color: rgba(240,79,79,0.2) !important; background: rgba(240,79,79,0.04) !important; }
 
     /* ── Console ── */
     .console-area {
       border-top: 1px solid var(--border);
-      display: flex;
-      flex-direction: column;
-      background: var(--panel);
-      overflow: hidden;
+      display: flex; flex-direction: column;
+      background: var(--panel); overflow: hidden;
     }
 
     .console-bar {
-      display: flex;
-      align-items: center;
+      display: flex; align-items: center;
       border-bottom: 1px solid var(--border);
-      background: #0b0c10;
-      flex-shrink: 0;
+      background: #0b0c10; flex-shrink: 0;
     }
 
     .ctab {
-      padding: 14px 24px;
-      font-size: 13px;
-      font-family: var(--mono);
-      color: var(--muted);
-      cursor: pointer;
-      background: transparent;
-      border: none;
+      padding: 13px 22px; font-size: 13px; font-family: var(--mono);
+      color: var(--muted); cursor: pointer;
+      background: transparent; border: none;
       border-top: 2px solid transparent;
-      transition: all 0.15s;
-      letter-spacing: 0.5px;
+      transition: all 0.15s; letter-spacing: 0.5px;
     }
 
-    .ctab:hover {
-      color: var(--muted2);
-    }
+    .ctab:hover { color: var(--muted2); }
+    .ctab.active { color: var(--text); border-top-color: var(--accent); background: var(--panel); }
+    .ctab-right { margin-left: auto; border-left: 1px solid var(--border); }
 
-    .ctab.active {
-      color: var(--text);
-      border-top-color: var(--accent);
-      background: var(--panel);
-    }
-
-    .ctab-right {
-      margin-left: auto;
-      border-left: 1px solid var(--border);
-    }
-
-    .console-body {
-      flex: 1;
-      overflow-y: auto;
-      font-family: var(--mono);
-      font-size: 13px;
-    }
+    .console-body { flex: 1; overflow-y: auto; font-family: var(--mono); font-size: 13px; }
 
     .log-row {
-      padding: 14px 24px;
-      border-bottom: 1px solid rgba(30, 32, 40, 0.8);
-      line-height: 1.6;
-      display: grid;
-      grid-template-columns: 28px 1fr;
-      gap: 14px;
-      align-items: flex-start;
+      padding: 12px 24px; border-bottom: 1px solid rgba(30,32,40,0.8);
+      line-height: 1.6; display: grid;
+      grid-template-columns: 28px 1fr; gap: 14px; align-items: flex-start;
     }
 
-    .log-idx {
-      color: var(--muted);
-      font-size: 11px;
-      padding-top: 2px;
-      text-align: right;
-    }
+    .log-idx { color: var(--muted); font-size: 11px; padding-top: 2px; text-align: right; }
+    .log-input { color: var(--text); margin-bottom: 6px; }
+    .log-out { color: var(--accent); }
+    .log-meta { color: var(--muted); font-size: 11px; margin-top: 4px; }
 
-    .log-content {
-      color: var(--muted2);
-    }
+    .raw-pane { padding: 24px; font-family: var(--mono); font-size: 13px; color: var(--cyan); line-height: 1.8; white-space: pre-wrap; }
 
-    .log-content .log-input {
-      color: var(--text);
-      margin-bottom: 6px;
-    }
+    .hidden { display: none !important; }
 
-    .log-content .log-out {
-      color: var(--accent);
-    }
-
-    .log-content .log-meta {
-      color: var(--muted);
-      font-size: 11px;
-      margin-top: 4px;
-    }
-
-    .raw-pane {
-      padding: 24px;
-      font-family: var(--mono);
-      font-size: 13px;
-      color: var(--cyan);
-      line-height: 1.8;
-      white-space: pre-wrap;
-    }
-
-    .hidden {
-      display: none !important;
-    }
-
-    ::-webkit-scrollbar {
-      width: 6px;
-    }
-
-    ::-webkit-scrollbar-track {
-      background: transparent;
-    }
-
-    ::-webkit-scrollbar-thumb {
-      background: var(--border2);
-      border-radius: 3px;
-    }
-
-    ::-webkit-scrollbar-thumb:hover {
-      background: #3a3d4a;
-    }
-
-    .mode-btn {
-      padding: 5px 14px;
-      font-family: var(--mono);
-      font-size: 11px;
-      font-weight: 600;
-      background: transparent;
-      border: none;
-      color: var(--muted);
-      cursor: pointer;
-      letter-spacing: 0.5px;
-      transition: all 0.15s;
-    }
-
-    .mode-btn.active {
-      background: var(--accent);
-      color: white;
-    }
-
-    .mode-btn:not(.active):hover {
-      color: var(--text);
-    }
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #3a3d4a; }
 
     .empty-state {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100%;
-      gap: 12px;
-      color: var(--muted);
-      font-family: var(--mono);
-      font-size: 13px;
-      opacity: 0.6;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      height: 100%; gap: 12px; color: var(--muted);
+      font-family: var(--mono); font-size: 13px; opacity: 0.6;
     }
 
     .spinner {
-      width: 18px;
-      height: 18px;
-      border: 2px solid var(--border2);
-      border-top-color: var(--accent);
-      border-radius: 50%;
-      animation: spin 0.7s linear infinite;
-      display: inline-block;
-      vertical-align: middle;
-      margin-right: 8px;
+      width: 18px; height: 18px;
+      border: 2px solid var(--border2); border-top-color: var(--accent);
+      border-radius: 50%; animation: spin 0.7s linear infinite;
+      display: inline-block; vertical-align: middle; margin-right: 8px;
     }
 
-    @keyframes spin {
-      to {
-        transform: rotate(360deg);
-      }
-    }
+    @keyframes spin { to { transform: rotate(360deg); } }
   </style>
 </head>
 
@@ -678,7 +355,7 @@
       <div class="brand-mark">A</div>
       <div class="brand-text">
         <span class="brand-name">Auroic Router Lab</span>
-        <span class="brand-sub">Decision Tester</span>
+        <span class="brand-sub">v4 · Decision Tester</span>
       </div>
     </div>
     <div class="header-stats">
@@ -701,51 +378,52 @@
 
     <aside class="sidebar">
       <div class="sidebar-header">
-        <div style="display:flex; justify-content:space-between; align-items:center;">
-          <span class="section-label" id="modeLabel">Raw Paste</span>
-          <div
-            style="display:flex; gap:0; background:var(--panel2); border:1px solid var(--border2); border-radius:6px; overflow:hidden;">
-            <button class="mode-btn active" id="btnRawMode" onclick="setMode('raw')">Raw</button>
-            <button class="mode-btn" id="btnSplitMode" onclick="setMode('split')">Split</button>
-          </div>
+        <span class="section-label">Input Window</span>
+        <div style="margin-top:8px; font-size:11px; font-family:var(--mono); color:var(--muted); line-height:1.6;">
+          H1–H5 = history context &nbsp;·&nbsp; C1–C3 = candidates to route
         </div>
       </div>
 
-      <!-- RAW MODE -->
-      <div id="rawMode"
-        style="flex:1; display:flex; flex-direction:column; padding:16px 28px; gap:10px; overflow:hidden;">
-        <div style="font-size:11px; font-family:var(--mono); color:var(--muted); line-height:1.6;">
-          One message per line. Up to 5 lines used (M1→M5).
-        </div>
-        <textarea id="rawPaste"
-          style="flex:1; width:100%; background:var(--panel2); border:1px solid var(--border); border-radius:var(--r); color:var(--text); font-family:var(--mono); font-size:13px; padding:14px; resize:none; outline:none; line-height:1.7; transition:border-color 0.2s;"
-          placeholder="lol&#10;haha&#10;😂&#10;💀&#10;hehehehe" onfocus="this.style.borderColor='var(--accent)'"
-          onblur="this.style.borderColor='var(--border)'"></textarea>
-        <div id="rawPreview" style="display:flex; flex-direction:column; gap:4px;"></div>
-      </div>
+      <div class="msg-list" id="msgList">
 
-      <!-- SPLIT MODE -->
-      <div id="splitMode" class="msg-list hidden">
+        <div class="msg-group-label">History</div>
+
         <div class="msg-row">
-          <div class="msg-num">M1</div>
-          <textarea class="msg-input" id="m1" placeholder="oldest message..." rows="2"></textarea>
+          <div class="msg-num">H1</div>
+          <textarea class="msg-input" id="h1" placeholder="oldest..." rows="2"></textarea>
         </div>
         <div class="msg-row">
-          <div class="msg-num">M2</div>
-          <textarea class="msg-input" id="m2" placeholder="" rows="2"></textarea>
+          <div class="msg-num">H2</div>
+          <textarea class="msg-input" id="h2" placeholder="" rows="2"></textarea>
         </div>
         <div class="msg-row">
-          <div class="msg-num">M3</div>
-          <textarea class="msg-input" id="m3" placeholder="" rows="2"></textarea>
+          <div class="msg-num">H3</div>
+          <textarea class="msg-input" id="h3" placeholder="" rows="2"></textarea>
         </div>
         <div class="msg-row">
-          <div class="msg-num">M4</div>
-          <textarea class="msg-input" id="m4" placeholder="" rows="2"></textarea>
+          <div class="msg-num">H4</div>
+          <textarea class="msg-input" id="h4" placeholder="" rows="2"></textarea>
         </div>
         <div class="msg-row">
-          <div class="msg-num">M5</div>
-          <textarea class="msg-input" id="m5" placeholder="newest message..." rows="2"></textarea>
+          <div class="msg-num">H5</div>
+          <textarea class="msg-input" id="h5" placeholder="most recent..." rows="2"></textarea>
         </div>
+
+        <div class="msg-group-label" style="margin-top:8px;">Candidates</div>
+
+        <div class="msg-row">
+          <div class="msg-num cand">C1</div>
+          <textarea class="msg-input cand-input" id="c1" placeholder="candidate 1..." rows="2"></textarea>
+        </div>
+        <div class="msg-row">
+          <div class="msg-num cand">C2</div>
+          <textarea class="msg-input cand-input" id="c2" placeholder="candidate 2..." rows="2"></textarea>
+        </div>
+        <div class="msg-row">
+          <div class="msg-num cand">C3</div>
+          <textarea class="msg-input cand-input" id="c3" placeholder="candidate 3..." rows="2"></textarea>
+        </div>
+
       </div>
 
       <div class="sidebar-footer">
@@ -770,17 +448,14 @@
               <span class="field-label">Type</span>
               <div class="field-val type-val" id="outType">—</div>
             </div>
-
             <div class="field">
               <span class="field-label">Target</span>
               <div class="field-val null-val" id="outTarget">null</div>
             </div>
-
             <div class="field">
               <span class="field-label">Effort</span>
               <div class="field-val null-val" id="outEffort">null</div>
             </div>
-
             <div class="field field-full">
               <span class="field-label">Title</span>
               <div class="field-val null-val" id="outTitle">null</div>
@@ -791,8 +466,8 @@
 
       <div class="console-area">
         <div class="console-bar">
-          <button class="ctab active" id="tabBtnLogs" onclick="switchTab('logs', this)">Session Log</button>
-          <button class="ctab" id="tabBtnRaw" onclick="switchTab('raw', this)">Raw Output</button>
+          <button class="ctab active" onclick="switchTab('logs', this)">Session Log</button>
+          <button class="ctab" onclick="switchTab('raw', this)">Raw Output</button>
           <button class="ctab ctab-right" onclick="copyLogs()">Copy Log</button>
         </div>
 
@@ -810,52 +485,15 @@
 
   <script>
     let sampleCount = 0;
-    let currentMode = 'raw';
 
-    function setMode(mode) {
-      currentMode = mode;
-      document.getElementById('btnRawMode').classList.toggle('active', mode === 'raw');
-      document.getElementById('btnSplitMode').classList.toggle('active', mode === 'split');
-      document.getElementById('rawMode').classList.toggle('hidden', mode !== 'raw');
-      document.getElementById('splitMode').classList.toggle('hidden', mode !== 'split');
-      document.getElementById('modeLabel').textContent = mode === 'raw' ? 'Raw Paste' : 'Split Fields';
-    }
-
-    function getMessages() {
-      if (currentMode === 'raw') {
-        return document.getElementById('rawPaste').value
-          .split('\n')
-          .map(l => l.trim())
-          .filter(Boolean)
-          .slice(0, 5);
-      } else {
-        return ['m1', 'm2', 'm3', 'm4', 'm5']
-          .map(id => document.getElementById(id).value.trim())
-          .filter(Boolean);
-      }
-    }
-
-    // Live preview in raw mode
-    document.addEventListener('DOMContentLoaded', () => {
-      document.getElementById('rawPaste').addEventListener('input', updatePreview);
-    });
-
-    function updatePreview() {
-      const lines = document.getElementById('rawPaste').value
-        .split('\n').map(l => l.trim()).filter(Boolean).slice(0, 5);
-      const preview = document.getElementById('rawPreview');
-      preview.innerHTML = lines.map((l, i) =>
-        `<div style="display:flex;gap:8px;align-items:center;">
-          <span style="font-family:var(--mono);font-size:10px;color:var(--accent);width:20px;flex-shrink:0;">M${i + 1}</span>
-          <span style="font-family:var(--mono);font-size:11px;color:var(--muted2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${l}</span>
-        </div>`
-      ).join('');
+    function getInputs() {
+      const history = ['h1','h2','h3','h4','h5'].map(id => document.getElementById(id).value.trim());
+      const candidates = ['c1','c2','c3'].map(id => document.getElementById(id).value.trim());
+      return { history, candidates };
     }
 
     function clearAll() {
-      document.getElementById('rawPaste').value = '';
-      document.getElementById('rawPreview').innerHTML = '';
-      ['m1', 'm2', 'm3', 'm4', 'm5'].forEach(id => document.getElementById(id).value = '');
+      ['h1','h2','h3','h4','h5','c1','c2','c3'].forEach(id => document.getElementById(id).value = '');
     }
 
     function switchTab(name, btn) {
@@ -878,10 +516,11 @@
     }
 
     async function runRoute() {
-      const messages = getMessages();
+      const { history, candidates } = getInputs();
+      const hasContent = candidates.some(c => c.length > 0);
 
-      if (messages.length === 0) {
-        alert('Enter at least one message');
+      if (!hasContent) {
+        alert('Enter at least one candidate message (C1–C3)');
         return;
       }
 
@@ -899,19 +538,18 @@
         const res = await fetch('/route', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ messages }),
+          body: JSON.stringify({ history, candidates }),
         });
 
         const data = await res.json();
         const ms = Math.round(performance.now() - t0);
 
-        if (data.fallback) throw new Error(data.error || 'Router fallback triggered');
+        if (data.fallback) throw new Error(data.error || 'Router fallback');
 
         const d = data.decision;
 
-        const typeEl = document.getElementById('outType');
-        typeEl.textContent = d.type || '—';
-        typeEl.className = 'field-val type-val has-value';
+        document.getElementById('outType').textContent = d.type || '—';
+        document.getElementById('outType').className = 'field-val type-val has-value';
 
         setField('outTarget', d.target);
         setField('outEffort', d.effort, d.effort ? `effort-${d.effort}` : null);
@@ -920,7 +558,6 @@
         pill.className = 'status-pill success';
         pill.textContent = `${ms}ms`;
         document.getElementById('statLat').textContent = `${ms}ms`;
-
         document.getElementById('rawOutput').textContent = data.raw || 'No raw output';
 
         sampleCount++;
@@ -929,12 +566,15 @@
         const pane = document.getElementById('paneLogs');
         if (pane.querySelector('.empty-state')) pane.innerHTML = '';
 
+        const histSummary = history.filter(Boolean).map((m,i) => `H${i+1}:${m}`).join(' · ');
+        const candSummary = candidates.map((m,i) => `C${i+1}:${m||'...'}`).join(' · ');
+
         const row = document.createElement('div');
         row.className = 'log-row';
         row.innerHTML = `
           <span class="log-idx">${sampleCount}</span>
-          <div class="log-content">
-            <div class="log-input">${messages.map((m, i) => `M${i + 1}: ${m}`).join(' · ')}</div>
+          <div>
+            <div class="log-input">${histSummary ? histSummary + ' · ' : ''}${candSummary}</div>
             <div class="log-out">${data.raw || ''}</div>
             <div class="log-meta">${ms}ms · ${new Date().toLocaleTimeString()}</div>
           </div>
@@ -957,12 +597,11 @@
     }
 
     document.addEventListener('DOMContentLoaded', () => {
-      document.getElementById('rawPaste').addEventListener('keydown', e => {
+      document.addEventListener('keydown', e => {
         if (e.key === 'Enter' && (e.metaKey || e.ctrlKey)) runRoute();
       });
     });
   </script>
 
 </body>
-
 </html>
